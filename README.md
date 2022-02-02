@@ -65,7 +65,8 @@
 
    Configuration for Unix `~/qrcode/qrcode.conf`
 
-   Configuration for Windows Registry `HKCU\SOFTWARE\unattended.ch\qrcode` 
+   Configuration for Windows Registry `HKCU\SOFTWARE\unattended.ch\qrcode```
+
 
    <DblClick> on Qrcode image copy bitmap to clipboard
 
