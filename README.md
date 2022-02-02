@@ -21,6 +21,7 @@
   <ol>
     <li><a href="#windows">Windows</a></li>
     <li><a href="#description">Description</a></li>
+    <li><a href="#language">Language</a></li>
     <li><a href="#download">Download</a></li>
   </ol>
 </details>
@@ -61,10 +62,20 @@
     Saving location for Unix is ~/qrcode
     Saving location for Windows is %APPDATA%\qrcode
 
+    Configuration for Unix ~/qrcode/qrcode.conf
+    Configuration for Windows Registry HKCU\SOFTWARE\unattended.ch\qrcode
+
     <DblClick> on Qrcode image copy bitmap to clipboard
 
    [goto TOC](#toc)
 
+## LANGUAGE
+
+    You can change the default language in qrcode.conf [Setup] Lang=[eb|de|fr]
+
+    Language files can be found in [locale](locale/)
+
+    Please feel free to add you own language
 
 ## DOWNLOAD
 
@@ -74,6 +85,8 @@
        - Windows installer package         (qrcode_VERSION_setup.exe)
 
 [![Download ](https://img.shields.io/github/v/release/unattended-ch/qrcode?label=&style=for-the-badge)](https://github.com/unattended-ch/qrcode/releases/latest)
+
+   [goto TOC](#toc)
 
 
 
