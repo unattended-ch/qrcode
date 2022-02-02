@@ -27,7 +27,7 @@
 
 ## WINDOWS
 ### Main Window
-![Main Page](res/main-window.png)
+![Main Page](main-window.png)
 
    [goto TOC](#toc)
 
