@@ -71,7 +71,7 @@
 
 ## LANGUAGE
 
-    You can change the default language in qrcode.conf [Setup] Lang=[eb|de|fr]
+    You can change the default language in qrcode.conf [Setup] Lang=[en|de|fr]
 
     Language files can be found in [locale](locale/)
 
