@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"X-Generator: Poedit 2.3\n"
+
+#: temailform.cancelbutton.caption
+msgctxt "temailform.cancelbutton.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: temailform.caption
+msgid "Email adress"
+msgstr "Email adresse"
+
+#: temailform.label3.caption
+msgctxt "temailform.label3.caption"
+msgid "Email"
+msgstr ""
+
+#: temailform.savebutton.caption
+msgctxt "temailform.savebutton.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: tgeoform.caption
+msgid "GEO location"
+msgstr ""
+
+#: tgeoform.label1.caption
+msgctxt "tgeoform.label1.caption"
+msgid "Name"
+msgstr ""
+
+#: tgeoform.label3.caption
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: tgeoform.label5.caption
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: tgeoform.transparentbutton1.caption
+msgctxt "tgeoform.transparentbutton1.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: tgeoform.transparentbutton2.caption
+msgctxt "tgeoform.transparentbutton2.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: tkantaktform.adresse.editlabel.caption
+msgid "Address"
+msgstr "Addresse"
+
+#: tkantaktform.bemerkung.editlabel.caption
+msgctxt "tkantaktform.bemerkung.editlabel.caption"
+msgid "Comment"
+msgstr "Kommentar"
+
+#: tkantaktform.cancelbutton.caption
+msgctxt "tkantaktform.cancelbutton.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: tkantaktform.caption
+msgid "Contact informations"
+msgstr ""
+
+#: tkantaktform.email.editlabel.caption
+msgctxt "tkantaktform.email.editlabel.caption"
+msgid "Email"
+msgstr ""
+
+#: tkantaktform.firma.editlabel.caption
+msgid "Company"
+msgstr "Firma"
+
+#: tkantaktform.import1.caption
+msgid "Import"
+msgstr "Importieren"
+
+#: tkantaktform.land.editlabel.caption
+msgid "Country"
+msgstr "Land"
+
+#: tkantaktform.land.text
+msgid "Schweiz"
+msgstr ""
+
+#: tkantaktform.name.editlabel.caption
+msgctxt "tkantaktform.name.editlabel.caption"
+msgid "Name"
+msgstr ""
+
+#: tkantaktform.nameprefix.text
+msgid "Hr."
+msgstr ""
+
+#: tkantaktform.ort.editlabel.caption
+msgctxt "tkantaktform.ort.editlabel.caption"
+msgid "Location"
+msgstr "Ort"
+
+#: tkantaktform.plz.editlabel.caption
+msgid "Postcode"
+msgstr "Plz"
+
+#: tkantaktform.savebutton.caption
+msgctxt "tkantaktform.savebutton.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: tkantaktform.telefon.editlabel.caption
+msgid "Phone"
+msgstr "Tel."
+
+#: tkantaktform.titel.editlabel.caption
+msgid "Title"
+msgstr "Titel"
+
+#: tkantaktform.vcard1.caption
+msgid "vCard"
+msgstr ""
+
+#: tkantaktform.vorname.editlabel.caption
+msgid "Surname"
+msgstr "Vorname"
+
+#: tkantaktform.webseite.editlabel.caption
+msgid "Webpage"
+msgstr "Webseite"
+
+#: tmainform.about1.caption
+msgid "About"
+msgstr "Über"
+
+#: tmainform.barcodeqr1.hint
+msgctxt "tmainform.barcodeqr1.hint"
+msgid "<DblClick> save to clipboard"
+msgstr "<DblClick> in Zwischenablge sichern"
+
+#: tmainform.caption
+msgid "QRcode generator"
+msgstr ""
+
+#: tmainform.email1.caption
+msgctxt "tmainform.email1.caption"
+msgid "Email"
+msgstr ""
+
+#: tmainform.exit1.caption
+msgid "Exit"
+msgstr "Beenden"
+
+#: tmainform.file1.caption
+msgid "File"
+msgstr "Datei"
+
+#: tmainform.geo1.caption
+msgid "Geo"
+msgstr ""
+
+#: tmainform.help1.caption
+msgid "Help"
+msgstr "Hilfe"
+
+#: tmainform.inputinfo.hint
+msgid "Informational text in QRcode"
+msgstr "Informations text für QRcode"
+
+#: tmainform.inputtext.hint
+msgid "Message for QRcode generation"
+msgstr "Inhalt für QRcode"
+
+#: tmainform.insert1.caption
+msgid "Insert"
+msgstr "Einfügen"
+
+#: tmainform.open1.caption
+msgid "Open Text"
+msgstr "Text öffnen"
+
+#: tmainform.panel1.hint
+msgctxt "tmainform.panel1.hint"
+msgid "<DblClick> save to clipboard"
+msgstr "<DblClick> in Zwischenablge sichern"
+
+#: tmainform.save1.caption
+msgid "Save Jpeg"
+msgstr "Jpeg sichern"
+
+#: tmainform.savevcard1.caption
+msgid "Save vCard"
+msgstr "vCard sichern"
+
+#: tmainform.sms1.caption
+msgid "Sms"
+msgstr ""
+
+#: tmainform.tel1.caption
+msgid "Tel"
+msgstr ""
+
+#: tmainform.termin1.caption
+msgctxt "tmainform.termin1.caption"
+msgid "Calendar"
+msgstr "Kalender"
+
+#: tmainform.url1.caption
+msgctxt "tmainform.url1.caption"
+msgid "URL"
+msgstr ""
+
+#: tmainform.vcard1.caption
+msgid "Contact"
+msgstr "Kontakt"
+
+#: tmainform.wifi1.caption
+msgid "Wlan"
+msgstr ""
+
+#: tmainform.youtube1.caption
+msgid "Youtube"
+msgstr ""
+
+#: tsmsform.caption
+msgid "SMS message"
+msgstr "SMS Meldung"
+
+#: tsmsform.label3.caption
+msgctxt "tsmsform.label3.caption"
+msgid "Phone Nr."
+msgstr "Tel. Nr."
+
+#: tsmsform.label5.caption
+msgid "Message"
+msgstr "Meldung"
+
+#: tsmsform.nummer.text
+msgctxt "tsmsform.nummer.text"
+msgid "+41 "
+msgstr ""
+
+#: tsmsform.transparentbutton1.caption
+msgctxt "tsmsform.transparentbutton1.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: tsmsform.transparentbutton2.caption
+msgctxt "tsmsform.transparentbutton2.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: ttelform.caption
+msgid "Phone number"
+msgstr "Telfon nummer"
+
+#: ttelform.label3.caption
+msgctxt "ttelform.label3.caption"
+msgid "Phone Nr."
+msgstr "Tel. Nr."
+
+#: ttelform.nummer.text
+msgctxt "ttelform.nummer.text"
+msgid "+41 "
+msgstr ""
+
+#: ttelform.transparentbutton1.caption
+msgctxt "ttelform.transparentbutton1.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ttelform.transparentbutton2.caption
+msgctxt "ttelform.transparentbutton2.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: tterminform.caption
+msgctxt "tterminform.caption"
+msgid "Calendar entry"
+msgstr "Kalendereintrag"
+
+#: tterminform.ganzertag.caption
+msgid "Full day"
+msgstr "Ganztägig"
+
+#: tterminform.label1.caption
+msgid "Begin"
+msgstr "Start"
+
+#: tterminform.label2.caption
+msgid "End"
+msgstr "Ende"
+
+#: tterminform.label3.caption
+msgctxt "tterminform.label3.caption"
+msgid "Description"
+msgstr "Beschreibung"
+
+#: tterminform.label4.caption
+msgctxt "tterminform.label4.caption"
+msgid "Location"
+msgstr "Ort"
+
+#: tterminform.label5.caption
+msgctxt "tterminform.label5.caption"
+msgid "Comment"
+msgstr "Kommentar"
+
+#: tterminform.transparentbutton1.caption
+msgctxt "tterminform.transparentbutton1.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: tterminform.transparentbutton2.caption
+msgctxt "tterminform.transparentbutton2.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: turlform.caption
+msgctxt "turlform.caption"
+msgid "URL"
+msgstr ""
+
+#: turlform.label3.caption
+msgctxt "turlform.label3.caption"
+msgid "URL"
+msgstr ""
+
+#: turlform.transparentbutton1.caption
+msgctxt "turlform.transparentbutton1.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: turlform.transparentbutton2.caption
+msgctxt "turlform.transparentbutton2.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: turlform.url.text
+msgid "http://"
+msgstr ""
+
+#: twlanform.caption
+msgid "WLAN configuration"
+msgstr "WLAN konfiguration"
+
+#: twlanform.hidden.caption
+msgid "Hidden"
+msgstr "Versteckt"
+
+#: twlanform.label3.caption
+msgid "SSID"
+msgstr ""
+
+#: twlanform.label4.caption
+msgid "Type"
+msgstr "Typ"
+
+#: twlanform.label5.caption
+msgid "Password"
+msgstr "Passwort"
+
+#: twlanform.transparentbutton1.caption
+msgctxt "twlanform.transparentbutton1.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: twlanform.transparentbutton2.caption
+msgctxt "twlanform.transparentbutton2.caption"
+msgid "Save"
+msgstr "Sichern"
+
+#: twlanform.typ.text
+msgid "WPA2"
+msgstr ""
+
+#: tyoutubeform.caption
+msgid "Youtube page"
+msgstr ""
+
+#: tyoutubeform.label3.caption
+msgid "Youtube ID"
+msgstr ""
+
+#: tyoutubeform.transparentbutton1.caption
+msgctxt "tyoutubeform.transparentbutton1.caption"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: tyoutubeform.transparentbutton2.caption
+msgctxt "tyoutubeform.transparentbutton2.caption"
+msgid "Save"
+msgstr "Sichern"
+
