@@ -59,10 +59,12 @@
 
    In `Contact window` select `Import` from menu to load a saved vCard
 
-   Saving location for Unix is `~/qrcode` 
-   Saving location for Windows is `%APPDATA%\qrcode` 
+   Saving location for Unix is `~/qrcode`
 
-   Configuration for Unix `~/qrcode/qrcode.conf` 
+   Saving location for Windows is `%APPDATA%\qrcode`
+
+   Configuration for Unix `~/qrcode/qrcode.conf`
+
    Configuration for Windows Registry `HKCU\SOFTWARE\unattended.ch\qrcode` 
 
    <DblClick> on Qrcode image copy bitmap to clipboard
