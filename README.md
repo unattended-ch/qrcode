@@ -67,7 +67,7 @@
 
    Configuration for Windows Registry `HKCU\SOFTWARE\unattended.ch\qrcode`
 
-   <<DblClick>> on Qrcode image copy bitmap to clipboard
+   DblClick on Qrcode image will copy bitmap to clipboard
 
    [goto TOC](#toc)
 
