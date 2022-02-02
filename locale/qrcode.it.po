@@ -8,17 +8,17 @@ msgstr ""
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+"Language: it\n"
 "X-Generator: Poedit 2.3\n"
 
 #: temailform.cancelbutton.caption
 msgctxt "temailform.cancelbutton.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: temailform.caption
 msgid "Email adress"
-msgstr "Adresse e-mail"
+msgstr ""
 
 #: temailform.label3.caption
 msgctxt "temailform.label3.caption"
@@ -28,52 +28,52 @@ msgstr ""
 #: temailform.savebutton.caption
 msgctxt "temailform.savebutton.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: tgeoform.caption
 msgid "GEO location"
-msgstr ""
+msgstr "Posizione GEO"
 
 #: tgeoform.label1.caption
 msgctxt "tgeoform.label1.caption"
 msgid "Name"
-msgstr "Nom"
+msgstr "Nome"
 
 #: tgeoform.label3.caption
 msgid "Latitude"
-msgstr ""
+msgstr "Latitudine"
 
 #: tgeoform.label5.caption
 msgid "Longitude"
-msgstr ""
+msgstr "Longitudine"
 
 #: tgeoform.transparentbutton1.caption
 msgctxt "tgeoform.transparentbutton1.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: tgeoform.transparentbutton2.caption
 msgctxt "tgeoform.transparentbutton2.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: tkantaktform.adresse.editlabel.caption
 msgid "Address"
-msgstr "Adresse"
+msgstr "Indirizzo"
 
 #: tkantaktform.bemerkung.editlabel.caption
 msgctxt "tkantaktform.bemerkung.editlabel.caption"
 msgid "Comment"
-msgstr "Commenter"
+msgstr "Commento"
 
 #: tkantaktform.cancelbutton.caption
 msgctxt "tkantaktform.cancelbutton.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: tkantaktform.caption
 msgid "Contact informations"
-msgstr "Coordonnées"
+msgstr "Informazioni di contatto"
 
 #: tkantaktform.email.editlabel.caption
 msgctxt "tkantaktform.email.editlabel.caption"
@@ -82,24 +82,24 @@ msgstr ""
 
 #: tkantaktform.firma.editlabel.caption
 msgid "Company"
-msgstr "Société"
+msgstr "Società"
 
 #: tkantaktform.import1.caption
 msgid "Import"
-msgstr "Importer"
+msgstr "Importare"
 
 #: tkantaktform.land.editlabel.caption
 msgid "Country"
-msgstr "Pays"
+msgstr "Nazione"
 
 #: tkantaktform.land.text
 msgid "Schweiz"
-msgstr "Suisse"
+msgstr ""
 
 #: tkantaktform.name.editlabel.caption
 msgctxt "tkantaktform.name.editlabel.caption"
 msgid "Name"
-msgstr "Nom"
+msgstr "Nome"
 
 #: tkantaktform.nameprefix.text
 msgid "Hr."
@@ -108,24 +108,24 @@ msgstr ""
 #: tkantaktform.ort.editlabel.caption
 msgctxt "tkantaktform.ort.editlabel.caption"
 msgid "Location"
-msgstr "Emplacement"
+msgstr "Posizione"
 
 #: tkantaktform.plz.editlabel.caption
 msgid "Postcode"
-msgstr "Code postal"
+msgstr "Codice postale"
 
 #: tkantaktform.savebutton.caption
 msgctxt "tkantaktform.savebutton.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: tkantaktform.telefon.editlabel.caption
 msgid "Phone"
-msgstr "Téléphone"
+msgstr "Telefono"
 
 #: tkantaktform.titel.editlabel.caption
 msgid "Title"
-msgstr "Titre"
+msgstr "Titolo"
 
 #: tkantaktform.vcard1.caption
 msgid "vCard"
@@ -133,20 +133,20 @@ msgstr ""
 
 #: tkantaktform.vorname.editlabel.caption
 msgid "Surname"
-msgstr "Prénom"
+msgstr ""
 
 #: tkantaktform.webseite.editlabel.caption
 msgid "Webpage"
-msgstr "Page Web"
+msgstr "Pagina web"
 
 #: tmainform.about1.caption
 msgid "About"
-msgstr "Sur"
+msgstr "Di"
 
 #: tmainform.barcodeqr1.hint
 msgctxt "tmainform.barcodeqr1.hint"
 msgid "<DblClick> save to clipboard"
-msgstr ""
+msgstr "<DblClick> salva negli appunti"
 
 #: tmainform.caption
 msgid "QRcode generator"
@@ -159,11 +159,11 @@ msgstr ""
 
 #: tmainform.exit1.caption
 msgid "Exit"
-msgstr "Sortir"
+msgstr "Uscita"
 
 #: tmainform.file1.caption
 msgid "File"
-msgstr "Fichier"
+msgstr ""
 
 #: tmainform.geo1.caption
 msgid "Geo"
@@ -171,36 +171,36 @@ msgstr ""
 
 #: tmainform.help1.caption
 msgid "Help"
-msgstr "Aider"
+msgstr "Aiuto"
 
 #: tmainform.inputinfo.hint
 msgid "Informational text in QRcode"
-msgstr "Texte informatif en QRcode"
+msgstr "Testo informativo in QRcode"
 
 #: tmainform.inputtext.hint
 msgid "Message for QRcode generation"
-msgstr "Message pour la génération de QRcode"
+msgstr "Messaggio per la generazione di QRcode"
 
 #: tmainform.insert1.caption
 msgid "Insert"
-msgstr "Insérer"
+msgstr "Inserire"
 
 #: tmainform.open1.caption
 msgid "Open Text"
-msgstr "Ouvrir le texte"
+msgstr "Testo aperto"
 
 #: tmainform.panel1.hint
 msgctxt "tmainform.panel1.hint"
 msgid "<DblClick> save to clipboard"
-msgstr ""
+msgstr "<DblClick> salva negli appunti"
 
 #: tmainform.save1.caption
 msgid "Save Jpeg"
-msgstr "Enregistrer JPEG"
+msgstr "Salva JPEG"
 
 #: tmainform.savevcard1.caption
 msgid "Save vCard"
-msgstr "Enregistrer la vCard"
+msgstr "Salva vCard"
 
 #: tmainform.sms1.caption
 msgid "Sms"
@@ -213,7 +213,7 @@ msgstr ""
 #: tmainform.termin1.caption
 msgctxt "tmainform.termin1.caption"
 msgid "Calendar"
-msgstr "Calendrier"
+msgstr "Calendario"
 
 #: tmainform.url1.caption
 msgctxt "tmainform.url1.caption"
@@ -222,7 +222,7 @@ msgstr ""
 
 #: tmainform.vcard1.caption
 msgid "Contact"
-msgstr ""
+msgstr "Contatto"
 
 #: tmainform.wifi1.caption
 msgid "Wlan"
@@ -234,16 +234,16 @@ msgstr ""
 
 #: tsmsform.caption
 msgid "SMS message"
-msgstr "SMS"
+msgstr "Messaggio SMS"
 
 #: tsmsform.label3.caption
 msgctxt "tsmsform.label3.caption"
 msgid "Phone Nr."
-msgstr "Numéro de téléphone."
+msgstr "Numero di telefono."
 
 #: tsmsform.label5.caption
 msgid "Message"
-msgstr ""
+msgstr "Messaggio"
 
 #: tsmsform.nummer.text
 msgctxt "tsmsform.nummer.text"
@@ -253,21 +253,21 @@ msgstr ""
 #: tsmsform.transparentbutton1.caption
 msgctxt "tsmsform.transparentbutton1.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: tsmsform.transparentbutton2.caption
 msgctxt "tsmsform.transparentbutton2.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: ttelform.caption
 msgid "Phone number"
-msgstr "Numéro de téléphone"
+msgstr "Numero di telefono"
 
 #: ttelform.label3.caption
 msgctxt "ttelform.label3.caption"
 msgid "Phone Nr."
-msgstr "Numéro de téléphone"
+msgstr "Numero di telefono"
 
 #: ttelform.nummer.text
 msgctxt "ttelform.nummer.text"
@@ -277,54 +277,54 @@ msgstr ""
 #: ttelform.transparentbutton1.caption
 msgctxt "ttelform.transparentbutton1.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: ttelform.transparentbutton2.caption
 msgctxt "ttelform.transparentbutton2.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: tterminform.caption
 msgctxt "tterminform.caption"
 msgid "Calendar entry"
-msgstr "Entrée de calendrier"
+msgstr "Voce del calendario"
 
 #: tterminform.ganzertag.caption
 msgid "Full day"
-msgstr "Journée complète"
+msgstr "Giornata intera"
 
 #: tterminform.label1.caption
 msgid "Begin"
-msgstr "Commencer"
+msgstr "Inizio"
 
 #: tterminform.label2.caption
 msgid "End"
-msgstr "Finir"
+msgstr "Fine"
 
 #: tterminform.label3.caption
 msgctxt "tterminform.label3.caption"
 msgid "Description"
-msgstr "La description"
+msgstr "Descrizione"
 
 #: tterminform.label4.caption
 msgctxt "tterminform.label4.caption"
 msgid "Location"
-msgstr "Emplacement"
+msgstr "Posizione"
 
 #: tterminform.label5.caption
 msgctxt "tterminform.label5.caption"
 msgid "Comment"
-msgstr "Commenter"
+msgstr "Commento"
 
 #: tterminform.transparentbutton1.caption
 msgctxt "tterminform.transparentbutton1.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: tterminform.transparentbutton2.caption
 msgctxt "tterminform.transparentbutton2.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: turlform.caption
 msgctxt "turlform.caption"
@@ -339,12 +339,12 @@ msgstr ""
 #: turlform.transparentbutton1.caption
 msgctxt "turlform.transparentbutton1.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: turlform.transparentbutton2.caption
 msgctxt "turlform.transparentbutton2.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: turlform.url.text
 msgid "http://"
@@ -352,11 +352,11 @@ msgstr ""
 
 #: twlanform.caption
 msgid "WLAN configuration"
-msgstr "Configuration Wi-Fi"
+msgstr "Configurazione WLAN"
 
 #: twlanform.hidden.caption
 msgid "Hidden"
-msgstr "Caché"
+msgstr "Nascosto"
 
 #: twlanform.label3.caption
 msgid "SSID"
@@ -364,21 +364,21 @@ msgstr ""
 
 #: twlanform.label4.caption
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: twlanform.label5.caption
 msgid "Password"
-msgstr "Mot de passe"
+msgstr "Parola d'ordine"
 
 #: twlanform.transparentbutton1.caption
 msgctxt "twlanform.transparentbutton1.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: twlanform.transparentbutton2.caption
 msgctxt "twlanform.transparentbutton2.caption"
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Salva"
 
 #: twlanform.typ.text
 msgid "WPA2"
@@ -386,19 +386,18 @@ msgstr ""
 
 #: tyoutubeform.caption
 msgid "Youtube page"
-msgstr "Youtube"
+msgstr "Pagina Youtube"
 
 #: tyoutubeform.label3.caption
 msgid "Youtube ID"
-msgstr ""
+msgstr "ID Youtube"
 
 #: tyoutubeform.transparentbutton1.caption
 msgctxt "tyoutubeform.transparentbutton1.caption"
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Annulla"
 
 #: tyoutubeform.transparentbutton2.caption
 msgctxt "tyoutubeform.transparentbutton2.caption"
 msgid "Save"
-msgstr "Sauvegarder"
-
+msgstr "Salva"

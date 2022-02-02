@@ -36,7 +36,7 @@
 
     qrcode <Enter>
 
-    Select "Insert" from menu and then one of the following :
+   Select `Insert` from menu and then one of the following :
 
     - Calendar entry
     - Contact information
@@ -48,35 +48,34 @@
     - Geo location
     - Youtube ID
 
-    Or type any text
+   Or type any text
 
-    Select "File" from menu :
+   Select `File` from menu :
 
-    - Open Text (load previously saved text from ~/qrcode/txt)
+   - Open Text `load previously saved text from ~/qrcode/txt`
 
-    - Save Jpeg (save jpeg to ~/qrcode/jpg and text to ~/qrcode/txt)
-    - Save vCard (save vCard to ~/qrcode/vcf)
+   - Save Jpeg `save jpeg to ~/qrcode/jpg and text to ~/qrcode/txt`
+   - Save vCard `save vCard to ~/qrcode/vcf`
 
-    In Contact window select "Import" from menu to load a saved vCard
+   In `Contact window` select `Import` from menu to load a saved vCard
 
-    Saving location for Unix is ~/qrcode
-    Saving location for Windows is %APPDATA%\qrcode
+   Saving location for Unix is `~/qrcode`
+   Saving location for Windows is `%APPDATA%\qrcode`
 
-    Configuration for Unix ~/qrcode/qrcode.conf
-    Configuration for Windows Registry HKCU\SOFTWARE\unattended.ch\qrcode
+   Configuration for Unix `~/qrcode/qrcode.conf`
+   Configuration for Windows Registry `HKCU\SOFTWARE\unattended.ch\qrcode`
 
-    <DblClick> on Qrcode image copy bitmap to clipboard
+   <DblClick> on Qrcode image copy bitmap to clipboard
 
    [goto TOC](#toc)
 
 ## LANGUAGE
 
-    You can change the default language in qrcode.conf [Setup] Lang=[en|de|fr]
+   You can change the default language in qrcode.conf [Setup] Lang=[en|de|fr|it]
 
-    Language files can be found in 
-   [locale](/locale)
+   Language files can be found in [locale](/locale)
 
-    Please feel free to add you own language
+   Please feel free to add you own language
 
 ## DOWNLOAD
 
