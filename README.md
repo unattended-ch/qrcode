@@ -35,6 +35,18 @@
 
        qrcode <Enter>
 
+    Select "Insert" from menu and select :
+
+    - Calendar entry
+    - Contact information
+    - URL address
+    - Email address
+    - Phone number
+    - SMS message
+    - Wlan information
+    - Geo location
+    - Youtube ID
+
 
    [goto TOC](#toc)
 
