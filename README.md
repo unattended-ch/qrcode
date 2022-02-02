@@ -33,9 +33,9 @@
 
 ## DESCRIPTION
 
-       qrcode <Enter>
+    qrcode <Enter>
 
-    Select "Insert" from menu and select :
+    Select "Insert" from menu and then one of the following :
 
     - Calendar entry
     - Contact information
@@ -47,6 +47,21 @@
     - Geo location
     - Youtube ID
 
+    Or type any text
+
+    Select "File" from menu :
+
+    - Open Text (load previously saved data from file)
+
+    - Save Jpeg (save jpeg to ~/qrcode/jpg and text to ~/qrcode/txt
+    - Save vCard (save vCard to ~/qrcode/vcf)
+
+    In Contact window select "Import" from menu to load a saved vCard
+
+    Saving location for Unix is ~/qrcode
+    Saving location for Windows is %APPDATA%\qrcode
+
+    <DblClick> on Qrcode image copy bitmap to clipboard
 
    [goto TOC](#toc)
 
