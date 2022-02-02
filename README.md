@@ -51,9 +51,9 @@
 
     Select "File" from menu :
 
-    - Open Text (load previously saved data from file)
+    - Open Text (load previously saved text from ~/qrcode/txt)
 
-    - Save Jpeg (save jpeg to ~/qrcode/jpg and text to ~/qrcode/txt
+    - Save Jpeg (save jpeg to ~/qrcode/jpg and text to ~/qrcode/txt)
     - Save vCard (save vCard to ~/qrcode/vcf)
 
     In Contact window select "Import" from menu to load a saved vCard
