@@ -33,32 +33,18 @@
 <details open="open">
   <summary><h2 style="display: inline-block">:scroll: INHALT</h2></summary>
   <ol>
+    <li><a href="#descriptions">Beschreibung</a></li>
     <li><a href="#windows">Fenster</a>
       <ul>
       <li><a href="#mainwindow">Eingabe</a></li>
       <li><a href="#paywindow">Einzahlungsschein</a></li>
       </ul>
     </li>
-    <li><a href="#descriptions">Beschreibung</a></li>
     <li><a href="#konten">Konto</a></li>
     <li><a href="#adresses">Adressen</a></li>
     <li><a href="#downloads">Download</a></li>
   </ol>
 </details>
-
-<a name="windows"></a>
-## WINDOWS
-<a name="mainwindow"></a>
-### :computer: Eingabe
-![Main Page](/res/main-window.png)
-
-   [goto TOC](#toc)
-
-
-### :computer: Einzahlungsschein
-![Main Page](/res/pay-window.png)
-
-   [goto TOC](#toc)
 
 <a name="description"></a>
 ### Beschreibung
@@ -74,15 +60,37 @@
    Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
    und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
+<a name="windows"></a>
+## WINDOWS
+<a name="mainwindow"></a>
+### :computer: Eingabe
+![Main Page](/res/main-window.png)
+
+   [goto TOC](#toc)
+
+
+### :computer: Einzahlungsschein
+![Main Page](/res/pay-window.png)
+
+   [goto TOC](#toc)
+
 <a name="konten"></a>
 ### Konto
+
+   Die Konten können nur mit der Lizensierten-Version gespeichert werden.
+
+![Full Page](/res/full-window.png)
+
+   [goto TOC](#toc)
 
 <a name="adresses"></a>
 ### Adressen
 
-   Die Adressen können aus einer Textdatei geladen werden, dabei muss jeder Datensatz aus 9 Zeilen bestehen.
-   Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
-   Als Abschluss muss eine Leerzeile folgen.
+     Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.
+
+     Dazu muss jeder Datensatz aus 9 Zeilen bestehen.
+     Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
+     Als Abschluss muss eine Leerzeile folgen.
 
 <pre>
 Gustav Muster
