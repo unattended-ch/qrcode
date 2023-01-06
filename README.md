@@ -10,9 +10,9 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/einzahlungsschein?label=&style=for-the-badge)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/einzahlungsschein/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-amd64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-amd64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-mac64.dmg)
 
 [![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-yellow.svg?style=for-the-badge)](https://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/Lazarus%202.2.4/)
 [![Fpc](https://img.shields.io/badge/-FPC_3.2.2-yellow.svg?style=for-the-badge)](https://www.freepascal.org/download.html)
@@ -60,6 +60,8 @@
    Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
    und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
+   Es ist KEINE Internetverbindung notwendig zum erzeugen der Einzahlungsscheine.
+
 <a name="windows"></a>
 ## WINDOWS
 <a name="mainwindow"></a>
@@ -77,7 +79,7 @@
 <a name="konten"></a>
 ### Konto
 
-    ! Die Konten können nur mit der Lizensierten-Version gespeichert werden.
+    ! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.
 
 ![Full Page](/res/full-window.png)
 
@@ -117,5 +119,9 @@ CHF
 
 <a name="downloads"></a>
 ### Download
+
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-amd64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-mac64.dmg)
 
 
