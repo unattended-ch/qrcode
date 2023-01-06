@@ -69,7 +69,7 @@
 <a name="windows"></a>
 ## WINDOWS
 <a name="mainwindow"></a>
-### :computer: Eingabe
+### :computer: Eingabe (Unlizensiert)
 ![Main Page](/res/main-window.png)
 
    [goto TOC](#toc)
@@ -81,11 +81,16 @@
    [goto TOC](#toc)
 
 <a name="konten"></a>
-### Konto
+### Konto (Lizensiert)
 
     ! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.
 
 ![Full Page](/res/full-window.png)
+
+   Die Kontodaten eintragen und `Speichern` drücken.
+   Danach wird das Konto automatisch in die Auswahlliste geladen.
+   
+   Über die Kommandozeile kann man das Konto mit --konto=N (0=Eins,1=Zwei) auswöhlen.
 
    [goto TOC](#toc)
 
@@ -97,6 +102,10 @@
      Dazu muss jeder Datensatz aus 9 Zeilen bestehen.
      Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
      Als Abschluss muss eine Leerzeile folgen.
+
+     Über die Kommandozeile kann man die Datei mit --adresse=filename.txt laden.
+
+     Datei adressen.txt :
 
 <pre>
 Gustav Muster
