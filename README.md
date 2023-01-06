@@ -70,13 +70,21 @@
 ## WINDOWS
 <a name="mainwindow"></a>
 ### :computer: Eingabe (Unlizensiert)
+<div align="center">
+
 ![Main Page](/res/main-window.png)
+
+</div>
 
    [goto TOC](#toc)
 
 
 ### :computer: Einzahlungsschein
+<div align="center">
+
 ![Main Page](/res/pay-window.png)
+
+</div>
 
    [goto TOC](#toc)
 
@@ -85,7 +93,11 @@
 
     ! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.
 
+<div align="center">
+
 ![Full Page](/res/full-window.png)
+
+</div>
 
    Die Kontodaten eintragen und `Speichern` drücken.
    Danach wird das Konto automatisch in die Auswahlliste geladen.
