@@ -31,17 +31,16 @@
 <a name="toc"></a>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">:scroll: TABLE OF CONTENTS</h2></summary>
+  <summary><h2 style="display: inline-block">:scroll: INHALT</h2></summary>
   <ol>
-    <li><a href="#windows">Windows</a>
+    <li><a href="#windows">Fenster</a>
       <ul>
-      <li><a href="#mainwindow">Main</a></li>
+      <li><a href="#mainwindow">Eingabe</a></li>
       <li><a href="#paywindow">Einzahlungsschein</a></li>
       </ul>
     </li>
-    <li><a href="#descriptions">Description</a></li>
+    <li><a href="#descriptions">Beschreibung</a></li>
     <li><a href="#downloads">Download</a></li>
-    <li><a href="#neededtools">Needed tools</a></li>
   </ol>
 </details>
 
@@ -58,4 +57,11 @@
 ![Main Page](/res/pay-window.png)
 
    [goto TOC](#toc)
+
+<a name="description"></a>
+### Beschreibung
+
+<a name="downloads"></a>
+### Download
+
 
