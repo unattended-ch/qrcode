@@ -100,9 +100,9 @@
 </div>
 
    Die Kontodaten eintragen und `Speichern` drücken.
-   Danach wird das Konto automatisch in die Auswahlliste geladen.
+   Danach wird das Konto automatisch in die Auswahlliste geladen und kann über diese ausgewählt werden.
    
-   Über die Kommandozeile kann man das Konto mit --konto=N (0=Eins,1=Zwei) auswöhlen.
+   Über die Kommandozeile kann man das Konto mit --konto=N (0=Eins,1=Zwei) auswählen.
 
    [goto TOC](#toc)
 
