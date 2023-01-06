@@ -38,10 +38,10 @@
       <ul>
       <li><a href="#mainwindow">Eingabe</a></li>
       <li><a href="#paywindow">Einzahlungsschein</a></li>
+      <li><a href="#konten">Konto</a></li>
+      <li><a href="#adresses">Adressen</a></li>
       </ul>
     </li>
-    <li><a href="#konten">Konto</a></li>
-    <li><a href="#adresses">Adressen</a></li>
     <li><a href="#downloads">Download</a></li>
   </ol>
 </details>
@@ -107,7 +107,7 @@
    [goto TOC](#toc)
 
 <a name="adresses"></a>
-### Adressen
+### Adressen (Lizensiert)
 
      ! Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.
 
