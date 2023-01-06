@@ -64,11 +64,11 @@
 
    qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]<Enter>
 
-    `--swissppay`		Einzahlungsschein Formular öffnen
-    `--konto=N`			Empfängerkonto auswählen
-    `--adresse=filename.txt`	Zahlungspflichtige aus Datei lesen
-    `--jpg`			JPG-Datei erstellen
-    `--print`			Ausdrucken
+    --swissppay			Einzahlungsschein Formular öffnen
+    --konto=N			Empfängerkonto auswählen
+    --adresse=filename.txt	Zahlungspflichtige aus Datei lesen
+    --jpg				JPG-Datei erstellen
+    --print			Ausdrucken
 
    Mit den Parametern `--jpg` und `--print` werden die Daten automatisch verarbeitet
    und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
