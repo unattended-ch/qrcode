@@ -76,6 +76,8 @@
 
 </div>
 
+   Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.
+
    [goto TOC](#toc)
 
 
@@ -85,6 +87,8 @@
 ![Main Page](/res/pay-window.png)
 
 </div>
+
+![Save](/res/save.ico)
 
    [goto TOC](#toc)
 
