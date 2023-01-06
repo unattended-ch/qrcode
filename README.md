@@ -62,7 +62,7 @@
 <a name="description"></a>
 ### Beschreibung
 
-   qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]<Enter>
+   qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]\<Enter>
 
     --swissppay			Einzahlungsschein Formular öffnen
     --konto=N			Empfängerkonto auswählen
