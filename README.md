@@ -75,6 +75,11 @@
 
 <a name="adresses"></a>
 ### Adressen
+
+    Die Adressen können aus einer Textdatei geladen werden, dabei muss jeder Datensatz aus 9 Zeilen bestehen.
+    Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile mit `###` eingefüght werden.
+    Als Abschluss muss eine Leerzeile folgen.
+
 <pre>
 Gustav Muster
 Musterstrasse
@@ -97,6 +102,7 @@ CHF
 999.00
 
 </pre>
+
 <a name="downloads"></a>
 ### Download
 
