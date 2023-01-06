@@ -12,8 +12,6 @@
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-win64.exe)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-arm64.deb)
 [![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/ytdlg-full_0.0.0.2-mac64.dmg)
 
 [![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-yellow.svg?style=for-the-badge)](https://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/Lazarus%202.2.4/)
@@ -25,14 +23,8 @@
 
 
 
-    Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
+    Kompiliert mit Lazarus für Ubuntu, MacOS und Windows
 
-    Compiled on Ubuntu with Lazarus for Ubuntu
-    Compiled on MacOS with Lazarus for MacOS
-    Crosscompiled on Ubuntu with Lazarus for Raspi3, Raspi4 and Windows
-    Setup created on Ubuntu for Ubuntu, Raspi3, Raspi4 with dpkg
-    Setup created on Ubuntu for Windows with makensis
-    Setup created on MacOS for MacOS with Packages and tools
 
 </div>
 
