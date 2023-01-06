@@ -49,7 +49,7 @@
 <a name="description"></a>
 ### Beschreibung
 
-   qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]\<Enter>
+    qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]\<Enter>
 
     --swissppay			Einzahlungsschein Formular öffnen
     --konto=N			Empfängerkonto auswählen
@@ -77,7 +77,7 @@
 <a name="konten"></a>
 ### Konto
 
-   Die Konten können nur mit der Lizensierten-Version gespeichert werden.
+    ! Die Konten können nur mit der Lizensierten-Version gespeichert werden.
 
 ![Full Page](/res/full-window.png)
 
@@ -86,7 +86,7 @@
 <a name="adresses"></a>
 ### Adressen
 
-     Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.
+     ! Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.
 
      Dazu muss jeder Datensatz aus 9 Zeilen bestehen.
      Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
