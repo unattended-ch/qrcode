@@ -117,7 +117,7 @@
 
      Über die Kommandozeile kann man die Datei mit --adresse=filename.txt laden.
 
-     Datei adressen.txt :
+ Datei adressen.txt :
 
 <pre>
 Gustav Muster
