@@ -88,7 +88,9 @@
 
 </div>
 
-![Save](/res/save.ico)
+![Save](/res/save.ico)	- Save as .JPG
+![Clip](/res/clip.jpg)	- Copy to Clipboard
+
 
    [goto TOC](#toc)
 
