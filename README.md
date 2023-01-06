@@ -66,28 +66,28 @@
 
 <a name="adresses"></a>
 ### Adressen
-''
-Gustav Muster
-Musterstrasse
-87
-4000
-Basel
-Referenz
-Bemerkung
-CHF
-1500.00
-###
-Frank Muster
-Musterstrasse
-22
-4000
-Basel
-Referenz
-Bemerkung
-CHF
-999.00
+'
+    Gustav Muster
+    Musterstrasse
+    87
+    4000
+    Basel
+    Referenz
+    Bemerkung
+    CHF
+    1500.00
+    ###
+    Frank Muster
+    Musterstrasse
+    22
+    4000
+    Basel
+    Referenz
+    Bemerkung
+    CHF
+    999.00
 
-''
+'
 <a name="downloads"></a>
 ### Download
 
