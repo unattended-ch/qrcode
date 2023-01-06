@@ -66,37 +66,37 @@
 
     --swissppay			Einzahlungsschein Formular öffnen
     --konto=N			Empfängerkonto auswählen
-    --adresse=filename.txt	Zahlungspflichtige aus Datei lesen
+    --adresse=filename.txt		Zahlungspflichtige aus Datei lesen
     --jpg				JPG-Datei erstellen
-    --print			Ausdrucken
+    --print				Ausdrucken
 
-   Mit den Parametern `--jpg` und `--print` werden die Daten automatisch verarbeitet
+   Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
    und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
 <a name="adresses"></a>
 ### Adressen
+<pre>
+Gustav Muster
+Musterstrasse
+87
+4000
+Basel
+Referenz
+Bemerkung
+CHF
+1500.00
+###
+Frank Muster
+Musterstrasse
+22
+4000
+Basel
+Referenz
+Bemerkung
+CHF
+999.00
 
-> Gustav Muster
-> Musterstrasse
-> 87
-> 4000
-> Basel
-> Referenz
-> Bemerkung
-> CHF
-> 1500.00
-> ###
-> Frank Muster
-> Musterstrasse
-> 22
-> 4000
-> Basel
-> Referenz
-> Bemerkung
-> CHF
-> 999.00
-> 
-
+</pre>
 <a name="downloads"></a>
 ### Download
 
