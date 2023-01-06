@@ -40,6 +40,7 @@
       </ul>
     </li>
     <li><a href="#descriptions">Beschreibung</a></li>
+    <li><a href="#konten">Konto</a></li>
     <li><a href="#adresses">Adressen</a></li>
     <li><a href="#downloads">Download</a></li>
   </ol>
@@ -73,11 +74,14 @@
    Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
    und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
+<a name="konten"></a>
+### Konto
+
 <a name="adresses"></a>
 ### Adressen
 
    Die Adressen können aus einer Textdatei geladen werden, dabei muss jeder Datensatz aus 9 Zeilen bestehen.
-   Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile mit `###` eingefüght werden.
+   Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
    Als Abschluss muss eine Leerzeile folgen.
 
 <pre>
