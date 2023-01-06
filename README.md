@@ -57,6 +57,10 @@
     --jpg				JPG-Datei erstellen
     --print				Ausdrucken
 
+   Parameter lassen sich nur mit einer Lizensierten-Version ausführen.
+
+   Mit der Unlizensierte-Version müssen die Daten manuell eingetragen werden.
+
    Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
    und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
