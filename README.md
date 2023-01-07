@@ -86,13 +86,13 @@
 
 ![Main Page](/res/pay-window.png)
 
+</div>
+
 ![Save](/res/save.ico) Als .JPG sichern  
 ![Clip](/res/clip-32x32.jpg) Zwischenablage  
 ![Print](/res/printer-32x32.png) Drucken  
 ![Setup](/res/print-setup.png) Drucker Einstellungen  
-
-</div>
-
+![Exit](/res/exit.bmp) Beenden  
 
    [goto TOC](#toc)
 
