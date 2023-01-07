@@ -109,8 +109,10 @@
 
    Die Kontodaten eintragen und `Speichern` drücken.
    Danach wird das Konto automatisch in die Auswahlliste geladen und kann über diese ausgewählt werden.
-   
-   Über die Kommandozeile kann man das Konto mit --konto=N (0=Eins,1=Zwei) auswählen.
+
+   Es können maximal 8 Konten gespeichert werden.
+
+   Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.
 
    [goto TOC](#toc)
 
@@ -122,6 +124,8 @@
      Dazu muss jeder Datensatz aus 9 Zeilen bestehen.
      Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
      Als Abschluss muss eine Leerzeile folgen.
+
+     Es können maximal 64 Adressen verarbeitet werden.
 
      Über die Kommandozeile kann man die Datei mit --adresse=filename.txt laden.
 
