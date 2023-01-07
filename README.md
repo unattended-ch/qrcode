@@ -92,6 +92,9 @@
 ![Setup](/res/print-setup.png)
 ![Exit](/res/exit1.bmp)
 
+![Main Page](/res/pay1-window.png)
+![Main Page](/res/pay2-window.png)
+
 </div>
 
    [goto TOC](#toc)
