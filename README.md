@@ -42,6 +42,7 @@
       <li><a href="#adresses">Adressen (Lizensiert)</a></li>
       </ul>
     </li>
+    <li><a href="#license">Lizenz bestellen</a></li>
     <li><a href="#downloads">Download</a></li>
   </ol>
 </details>
@@ -162,6 +163,11 @@ CHF
 999.00
 
 </pre>
+
+<a name="license"></a>
+### Lizenz bestellen
+
+    Sie können eine [Lizenz](https://unattended.ch/?page_id=1935) bestellen über unsere Webseite.
 
 <a name="downloads"></a>
 ### Download
