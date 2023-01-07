@@ -4,10 +4,10 @@
 
 ## Schweizer QR Einzahlungsschein
 
-### Generieren eines Schweizer QR Einzahlungsschein
+### Generieren eines Schweizer QR Einzahlungsscheins
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/einzahlungsschein?style=for-the-badge&color=green)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
-[![Downloads](https://img.shields.io/github/license/unattended-ch/einzahlungsschein?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
+[![License](https://img.shields.io/github/license/unattended-ch/einzahlungsschein?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Stars](https://img.shields.io/github/stars/unattended-ch/einzahlungsschein?style=for-the-badge&color=orange)](https://github.com/unattended-ch/einzahlungsschein/stargazers)
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/einzahlungsschein?label=&style=for-the-badge)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/einzahlungsschein/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
