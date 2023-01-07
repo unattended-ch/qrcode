@@ -1,5 +1,7 @@
 <div align="center">
 
+# Seite wird noch entwickelt, nicht alle Funktionen sind verfügbar !
+
 ## Schweizer QR Einzahlungsschein
 
 ### Generieren eines Schweizer QR Einzahlungsschein
