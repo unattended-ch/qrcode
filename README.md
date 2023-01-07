@@ -167,7 +167,7 @@ CHF
 <a name="license"></a>
 ### Lizenz bestellen
 
-[Lizenz](https://unattended.ch/?page_id=1935) bestellen über unsere Webseite.
+[Lizenz bestellen über unsere Webseite.](https://unattended.ch/?page_id=1935)
 
 <a name="downloads"></a>
 ### Download
