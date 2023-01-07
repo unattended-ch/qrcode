@@ -66,6 +66,12 @@
 
     Es ist KEINE Internetverbindung notwendig zum erzeugen der Einzahlungsscheine.
 
+    Linux Daten Verzeichnis ~/qrcode/EZ/ für gespeicherte Einzahlungsscheine
+
+    MacOS Daten Verzeichnis ~/qrcode/EZ/ für gespeicherte Einzahlungsscheine
+
+    Windows Daten Verzeichnis %USERPROFILE%\qrcode\EZ\ für gespeicherte Einzahlungsscheine
+
 <a name="windows"></a>
 ## WINDOWS
 <a name="mainwindow"></a>
