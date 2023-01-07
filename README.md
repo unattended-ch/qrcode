@@ -88,9 +88,10 @@
 
 </div>
 
-![Save](/res/save.ico)		- Save as .JPG
+![Save](/res/save.ico) Als .JPG sichern  
+![Clip](/res/clip-32x32.jpg) Zwischenablage  
+![Print](/res/printer-32x32.jpg) Drucken  
 
-![Clip](/res/clip-32x32.jpg)	- Copy to Clipboard
 
 
    [goto TOC](#toc)
