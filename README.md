@@ -89,11 +89,11 @@
 ![Main Page](/res/pay1-window.png)
 ![Main Page](/res/pay2-window.png)
 
-![Save](/res/save.ico) Speichern
-![Clip](/res/clip.png) Zwischenablage
-![Print](/res/printer.png)
-![Setup](/res/print-setup.png)
-![Exit](/res/exit1.bmp)
+![Save](/res/save.ico) Speichern 
+![Clip](/res/clip.png) Zwischenablage 
+![Print](/res/printer.png) Drucken 
+![Setup](/res/print-setup.png) Setup 
+![Exit](/res/exit1.bmp) Beenden
 
 </div>
 
