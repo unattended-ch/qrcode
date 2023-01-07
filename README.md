@@ -1,6 +1,6 @@
 <div align="center">
 
-# Seite wird noch bearbeitet, es sind noch KEINE downloads verfügbar !
+# Seite wird noch bearbeitet, es sind noch KEINE Downloads verfügbar !
 
 ## Schweizer QR Einzahlungsschein
 
