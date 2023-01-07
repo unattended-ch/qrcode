@@ -76,7 +76,7 @@
 
 </div>
 
-   Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.
+    Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.
 
    [goto TOC](#toc)
 
@@ -110,12 +110,12 @@
 
 </div>
 
-   Die Kontodaten eintragen und `Speichern` drücken.
-   Danach wird das Konto automatisch in die Auswahlliste geladen und kann über diese ausgewählt werden.
+    Die Kontodaten eintragen und `Speichern` drücken.
+    Danach wird das Konto automatisch in die Auswahlliste geladen und kann über diese ausgewählt werden.
 
-   Es können maximal 8 Konten gespeichert werden.
+    Es können maximal 8 Konten gespeichert werden.
 
-   Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.
+    Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.
 
    [goto TOC](#toc)
 
