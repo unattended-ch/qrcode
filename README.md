@@ -86,13 +86,13 @@
 
 ![Main Page](/res/pay-window.png)
 
-</div>
-
 ![Save](/res/save.ico)
 ![Clip](/res/clip.png)
 ![Print](/res/printer.png)
 ![Setup](/res/print-setup.png)
 ![Exit](/res/exit1.bmp)
+
+</div>
 
    [goto TOC](#toc)
 
