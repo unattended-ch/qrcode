@@ -88,11 +88,11 @@
 
 </div>
 
-![Save](/res/save.ico) Als .JPG sichern  
-![Clip](/res/clip.png) Zwischenablage  
-![Print](/res/printer.png) Drucken  
-![Setup](/res/print-setup.png) Drucker Einstellungen  
-![Exit](/res/exit1.bmp) Beenden  
+![Save](/res/save.ico)
+![Clip](/res/clip.png)
+![Print](/res/printer.png)
+![Setup](/res/print-setup.png)
+![Exit](/res/exit1.bmp)
 
    [goto TOC](#toc)
 
