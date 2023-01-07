@@ -89,8 +89,8 @@
 </div>
 
 ![Save](/res/save.ico) Als .JPG sichern  
-![Clip](/res/clip-32x32.jpg) Zwischenablage  
-![Print](/res/printer-32x32.png) Drucken  
+![Clip](/res/clip.png) Zwischenablage  
+![Print](/res/printer.png) Drucken  
 ![Setup](/res/print-setup.png) Drucker Einstellungen  
 ![Exit](/res/exit1.bmp) Beenden  
 
