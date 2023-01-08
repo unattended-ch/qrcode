@@ -45,7 +45,7 @@
 <a name="description"></a>
 ### Beschreibung
 
-   `qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]\<Enter>`
+   `qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]<Enter>`
 
 Parameter|Beschreibung
 ---------|------------
