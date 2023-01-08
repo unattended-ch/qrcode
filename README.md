@@ -81,6 +81,8 @@ Linux Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.
 
 Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungsscheine.
 
+   [goto TOC](#toc)
+
 <a name="windows"></a>
 ## WINDOWS
 ### :computer: Eingabe Unlizensiert)
@@ -186,6 +188,8 @@ CHF
 
 </pre>
 
+   [goto TOC](#toc)
+
 <a name="license"></a>
 ### :warning: Lizenz bestellen
 
@@ -197,5 +201,7 @@ CHF
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-win64.exe)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-amd64.deb)
+
+   [goto TOC](#toc)
 
 </div>
