@@ -47,8 +47,10 @@
 
    `qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]\<Enter>`
 
-   `--swissppay`			Einzahlungsschein Formular öffnen<br />
-   `--konto=N`			Empfängerkonto auswählen<br />
+Parameter|Beschreibung
+---------|------------
+`--swissppay`|Einzahlungsschein Formular öffnen
+`--konto=N`|Empfängerkonto auswählen
    `--adresse=filename.txt`		Zahlungspflichtige aus Datei lesen<br />
    `--jpg`				JPG-Datei erstellen<br />
    `--print`				Einzahlungsschein ausdrucken<br />
