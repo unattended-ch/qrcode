@@ -44,9 +44,8 @@
 
 <a name="description"></a>
 ### Beschreibung
-<div align="center">
 
-   `qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]<Enter>`
+   `qrcode [--swisspay] [--konto=N|--adresse=filename.txt] [--jpg] [--print]<Enter>`
 
 Parameter|Beschreibung
 ---------|------------
@@ -60,16 +59,16 @@ Parameter|Beschreibung
 
     Mit der Unlizensierte-Version müssen die Daten manuell eingetragen werden.
 
+    Wenn --adresse= verwendet wird, kann --konto= weggelassen werden, da das Konto enthalten ist.
+
     Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
     und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
     Es ist KEINE Internetverbindung notwendig zum erzeugen der Einzahlungsscheine.
 
-    Linux Daten Verzeichnis ~/qrcode/EZ/ für gespeicherte Einzahlungsscheine
+    Linux Daten Verzeichnis ~/qrcode/EZ/ für gespeicherte Einzahlungsscheine.
 
-    Windows Daten Verzeichnis %USERPROFILE%\qrcode\EZ\ für gespeicherte Einzahlungsscheine
-
-</div>
+    Windows Daten Verzeichnis %APPDATA%\qrcode\EZ\ für gespeicherte Einzahlungsscheine.
 
 <a name="windows"></a>
 ## WINDOWS
