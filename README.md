@@ -52,6 +52,15 @@ Parameter|Beschreibung
 `--adresse=filename.txt`|Zahlungspflichtige und Empfängerkonto aus Datei lesen
 `--jpg`|JPG-Datei erstellen
 `--print`|Einzahlungsschein ausdrucken
+`--vcard`|Kontakt code erzeugen
+`--wifi`|WIFI code erzeugen
+`--calendar`|Kalender code erzeugen
+`--url`|URL code erzeugen
+`--email`|Email code erzeugen
+`--phone`|Telefon code erzeugen
+`--sms`|SMS code erzeugen
+`--geo`|GEO code rezeugen
+`--youtube`|Youtube ID code erzeugen
 
 Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
 
