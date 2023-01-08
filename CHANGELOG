@@ -1,0 +1,14 @@
+0.0.0.1		Initial release on Gitlab
+		locale "de", "fr" and "it" added (default "en")
+0.0.0.2		Added Swisspayment slip added
+		Added parameter --swisspay
+		Added parameter --vcard
+ 		Added parameter --wifi
+		Added parameter --calendar
+		Added parameter --url
+		Added parameter --email
+		Added parameter --phone
+		Added parameter --sms
+		Added parameter --geo
+		Added parameter --youtube
+1.0.0.0		Github initial release

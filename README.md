@@ -1,7 +1,5 @@
 <div align="center">
 
-# Seite wird noch bearbeitet, es sind noch KEINE Downloads verfügbar !
-
 ## Schweizer QR Einzahlungsschein
 
 ### Generieren eines Schweizer QR Einzahlungsscheins
