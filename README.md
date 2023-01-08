@@ -187,12 +187,12 @@ CHF
 </pre>
 
 <a name="license"></a>
-### Lizenz bestellen
+### :warning: Lizenz bestellen
 
 [Lizenz bestellen](https://unattended.ch/?page_id=1935)
 
 <a name="downloads"></a>
-### Download
+### :dvd: Download
 <div align="center">
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-win64.exe)
