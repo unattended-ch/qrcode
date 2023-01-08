@@ -45,6 +45,8 @@
 
    `qrcode [--swisspay] [--konto=N|--adresse=filename.txt] [--jpg] [--print]<Enter>`
 
+   `qrcode [--vcard|wifi|calendar|url|email|phone|sms|geo|youtube]<Enter>`
+
 Parameter|Beschreibung
 ---------|------------
 `--swissppay`|Einzahlungsschein Formular öffnen
