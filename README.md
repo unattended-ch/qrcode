@@ -51,7 +51,7 @@ Parameter|Beschreibung
 ---------|------------
 `--swissppay`|Einzahlungsschein Formular öffnen
 `--konto=N`|Empfängerkonto auswählen
-`--adresse=filename.txt`|Zahlungspflichtige aus Datei lesen
+`--adresse=filename.txt`|Zahlungspflichtige und Empfängerkonto aus Datei lesen
 `--jpg`|JPG-Datei erstellen
 `--print`|Einzahlungsschein ausdrucken
 
