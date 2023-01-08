@@ -129,7 +129,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 
      Dazu muss jeder Datensatz aus 10 Zeilen bestehen.
      Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
-     Als Abschluss muss eine Leerzeile folgen.
+     Als Abschluss muss eine Leerzeile folgen.<br />
 
      Aufbau :
 	 1. Empfänger Konto (1=Eins,2=Zwei...)
