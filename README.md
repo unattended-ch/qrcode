@@ -117,7 +117,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 <a name="konten"></a>
 ### Eingabe (Lizensiert)
 
-`! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
+:red_circle: `! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 <a name="adresses"></a>
 ### Adressen (Lizensiert)
 
-`! Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
+:red_circle: `! Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
 
     - Dazu muss jeder Datensatz aus 10 Zeilen bestehen.
     - Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
