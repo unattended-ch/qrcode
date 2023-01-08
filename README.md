@@ -44,6 +44,7 @@
 
 <a name="description"></a>
 ### Beschreibung
+<div align="center">
 
    `qrcode [--swisspay] [--konto=N] [--adresse=filename.txt] [--jpg] [--print]<Enter>`
 
@@ -67,6 +68,8 @@ Parameter|Beschreibung
     Linux Daten Verzeichnis ~/qrcode/EZ/ für gespeicherte Einzahlungsscheine
 
     Windows Daten Verzeichnis %USERPROFILE%\qrcode\EZ\ für gespeicherte Einzahlungsscheine
+
+</div>
 
 <a name="windows"></a>
 ## WINDOWS
