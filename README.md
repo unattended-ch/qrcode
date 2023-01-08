@@ -59,10 +59,9 @@ Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
 
 Mit der `Unlizensierte-Version` müssen die Daten `manuell` eingetragen werden.
 
-Wenn `--adresse=` verwendet wird, kann `--konto=` weggelassen werden, da das Konto in der Adresslist enthalten sein muss.
+Wenn `--adresse=` verwendet wird, kann `--konto=` weggelassen werden, da das Konto in der Adressliste enthalten sein muss.
 
-Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
-und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
+Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
 Es ist `KEINE Internetverbindung notwendig` zum erzeugen der Einzahlungsscheine.
 
