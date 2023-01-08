@@ -26,7 +26,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">:scroll: INHALT</h2></summary>
   <ol>
-    <li><a href="#descriptions">Beschreibung</a></li>
+    <li><a href="#description">Beschreibung</a></li>
     <li><a href="#windows">Fenster</a>
       <ul>
       <li><a href="#windows">Eingabe (Unlizensiert)</a></li>
