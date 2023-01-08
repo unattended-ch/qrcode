@@ -41,7 +41,7 @@
 </details>
 
 <a name="description"></a>
-### Beschreibung
+### :mag: Beschreibung
 
    `qrcode [--swisspay] [--konto=N|--adresse=filename.txt] [--jpg] [--print]<Enter>`
 
