@@ -115,7 +115,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
    [goto TOC](#toc)
 
 <a name="konten"></a>
-### Eingabe (Lizensiert)
+### :wrench: Eingabe (Lizensiert)
 
 :heavy_exclamation_mark: `Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
 
@@ -134,7 +134,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
    [goto TOC](#toc)
 
 <a name="adresses"></a>
-### Adressen (Lizensiert)
+### :wrench: Adressen (Lizensiert)
 
 :heavy_exclamation_mark: `Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
 
