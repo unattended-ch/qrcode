@@ -124,9 +124,22 @@
 
      ! Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.
 
-     Dazu muss jeder Datensatz aus 9 Zeilen bestehen.
+     Dazu muss jeder Datensatz aus 10 Zeilen bestehen.
      Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
      Als Abschluss muss eine Leerzeile folgen.
+
+     Aufbau :
+	 1. Empfänger Konto (1=Eins,2=Zwei...)
+	 2. Name
+	 3. Adresse
+	 4. Hausnummer
+	 5. Postleitzahl
+	 6. Ort
+	 7. Referenznummer
+	 8. Bemerkung
+	 9. Währung (CHF/EUR)
+	10. Betrag
+	11. Leerzeile oder Trenzeile '###'
 
      Es können maximal 64 Adressen verarbeitet werden.
 
@@ -135,6 +148,7 @@
  Datei adressen.txt :
 
 <pre>
+1
 Gustav Muster
 Musterstrasse
 87
@@ -145,6 +159,7 @@ Bemerkung
 CHF
 1500.00
 ###
+1
 Frank Muster
 Musterstrasse
 22
