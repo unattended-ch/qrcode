@@ -83,7 +83,6 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 
 <a name="windows"></a>
 ## WINDOWS
-<a name="mainwindow"></a>
 ### :computer: Eingabe (Unlizensiert)
 <div align="center">
 
@@ -96,6 +95,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
    [goto TOC](#toc)
 
 
+<a name="paywindow"></a>
 ### :computer: Einzahlungsschein
 <div align="center">
 
