@@ -90,7 +90,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 
 </div>
 
-`Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.`
+`! Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.`
 
    [goto TOC](#toc)
 
@@ -117,7 +117,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 <a name="konten"></a>
 ### Eingabe (Lizensiert)
 
-    ! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.
+`! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
 
 <div align="center">
 
