@@ -55,20 +55,20 @@ Parameter|Beschreibung
 `--jpg`|JPG-Datei erstellen
 `--print`|Einzahlungsschein ausdrucken
 
-    Parameter lassen sich nur mit einer Lizensierten-Version ausführen.
+`Parameter lassen sich nur mit einer Lizensierten-Version ausführen.`
 
-    Mit der Unlizensierte-Version müssen die Daten manuell eingetragen werden.
+`Mit der Unlizensierte-Version müssen die Daten manuell eingetragen werden.`
 
-    Wenn --adresse= verwendet wird, kann --konto= weggelassen werden, da das Konto enthalten ist.
+`Wenn --adresse= verwendet wird, kann --konto= weggelassen werden, da das Konto enthalten ist.`
 
-    Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
-    und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
+`Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet
+und die entsprechenden Daten erzeugt, danach wird das Programm beendet.`
 
-    Es ist KEINE Internetverbindung notwendig zum erzeugen der Einzahlungsscheine.
+`Es ist KEINE Internetverbindung notwendig zum erzeugen der Einzahlungsscheine.`
 
-    Linux Daten Verzeichnis ~/qrcode/EZ/ für gespeicherte Einzahlungsscheine.
+`Linux Daten Verzeichnis ~/qrcode/EZ/ für gespeicherte Einzahlungsscheine.`
 
-    Windows Daten Verzeichnis %APPDATA%\qrcode\EZ\ für gespeicherte Einzahlungsscheine.
+`Windows Daten Verzeichnis %APPDATA%\qrcode\EZ\ für gespeicherte Einzahlungsscheine.`
 
 <a name="windows"></a>
 ## WINDOWS
