@@ -125,13 +125,10 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 
 </div>
 
-`Die Kontodaten eintragen und `Speichern` drücken.`
-
-`Danach wird das Konto automatisch in die Auswahlliste geladen und kann über diese ausgewählt werden.`
-
-`Es können maximal 8 Konten gespeichert werden.`
-
-`Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.`
+    - Die Kontodaten eintragen und `Speichern` drücken.
+    - Danach wird das Konto automatisch in die Auswahlliste geladen und kann über diese ausgewählt werden.
+    - Es können maximal 8 Konten gespeichert werden.
+    - Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.
 
    [goto TOC](#toc)
 
