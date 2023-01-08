@@ -67,7 +67,7 @@ Es ist `KEINE Internetverbindung notwendig` zum erzeugen der Einzahlungsscheine.
 
 Linux Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.
 
-Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungsscheine.`
+Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungsscheine.
 
 <a name="windows"></a>
 ## WINDOWS
@@ -125,13 +125,13 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 <a name="adresses"></a>
 ### Adressen (Lizensiert)
 
-     ! Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.
+`! Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
 
      Dazu muss jeder Datensatz aus 10 Zeilen bestehen.
      Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
      Als Abschluss muss eine Leerzeile folgen.
 
-     Aufbau :
+`Aufbau :`
 	 1. Empfänger Konto (1=Eins,2=Zwei...)
 	 2. Name
 	 3. Adresse
