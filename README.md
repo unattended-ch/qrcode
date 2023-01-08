@@ -69,7 +69,7 @@ Parameter|Beschreibung
 
 :heavy_exclamation_mark: Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
 
-Mit der `Unlizensierte-Version` müssen die Daten `manuell` eingetragen werden.
+:heavy_exclamation_mark: Mit der `Unlizensierte-Version` müssen die Daten `manuell` eingetragen werden.
 
 Wenn `--adresse=` verwendet wird, kann `--konto=` weggelassen werden, da das Konto in der Adressliste enthalten sein muss.
 
