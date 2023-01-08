@@ -52,6 +52,9 @@ Parameter|Beschreibung
 `--adresse=filename.txt`|Zahlungspflichtige und Empfängerkonto aus Datei lesen
 `--jpg`|JPG-Datei erstellen
 `--print`|Einzahlungsschein ausdrucken
+
+ Parameter|Beschreibung
+---------|------------
 `--vcard`|Kontakt code erzeugen
 `--wifi`|WIFI code erzeugen
 `--calendar`|Kalender code erzeugen
