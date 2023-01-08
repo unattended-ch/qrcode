@@ -115,7 +115,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
    [goto TOC](#toc)
 
 <a name="konten"></a>
-### Konto (Lizensiert)
+### Eingabe (Lizensiert)
 
     ! Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.
 
