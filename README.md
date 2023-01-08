@@ -67,7 +67,7 @@ Parameter|Beschreibung
 `--geo`|GEO code rezeugen
 `--youtube`|Youtube ID code erzeugen
 
-Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
+:red_circle: Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
 
 Mit der `Unlizensierte-Version` müssen die Daten `manuell` eingetragen werden.
 
