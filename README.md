@@ -67,7 +67,7 @@ Parameter|Beschreibung
 `--geo`|GEO code rezeugen
 `--youtube`|Youtube ID code erzeugen
 
-:red_circle: Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
+:heavy_exclamation_mark: Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
 
 Mit der `Unlizensierte-Version` müssen die Daten `manuell` eingetragen werden.
 
@@ -83,14 +83,14 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 
 <a name="windows"></a>
 ## WINDOWS
-### :computer: Eingabe (Unlizensiert)
+### :computer: Eingabe Unlizensiert)
 <div align="center">
 
 ![Main Page](/res/main-window.png)
 
 </div>
 
-:red_circle: `Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.`
+:heavy_exclamation_mark: `Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.`
 
    [goto TOC](#toc)
 
@@ -117,7 +117,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 <a name="konten"></a>
 ### Eingabe (Lizensiert)
 
-:red_circle: `Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
+:heavy_exclamation_mark: `Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 <a name="adresses"></a>
 ### Adressen (Lizensiert)
 
-:red_circle: `Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
+:heavy_exclamation_mark: `Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
 
     - Dazu muss jeder Datensatz aus 10 Zeilen bestehen.
     - Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
