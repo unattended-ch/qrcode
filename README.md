@@ -29,7 +29,7 @@
     <li><a href="#descriptions">Beschreibung</a></li>
     <li><a href="#windows">Fenster</a>
       <ul>
-      <li><a href="#mainwindow">Eingabe (Unlizensiert)</a></li>
+      <li><a href="#windows">Eingabe (Unlizensiert)</a></li>
       <li><a href="#paywindow">Einzahlungsschein</a></li>
       <li><a href="#konten">Eingabe (Lizensiert)</a></li>
       <li><a href="#adresses">Adressen (Lizensiert)</a></li>
