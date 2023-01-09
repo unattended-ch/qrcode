@@ -47,6 +47,8 @@
 
    `qrcode [--vcard|wifi|calendar|url|email|phone|sms|geo|youtube]<Enter>`
 
+   `qrcode [--license]<Enter>`
+
 Parameter|Beschreibung
 ---------|------------
 `--swissppay`|Einzahlungsschein Formular öffnen
@@ -66,6 +68,10 @@ Parameter|Beschreibung
 `--sms`|SMS code erzeugen
 `--geo`|GEO code rezeugen
 `--youtube`|Youtube ID code erzeugen
+
+ Parameter|Beschreibung
+---------|------------
+`--license`|Lizenz eingeben und speichern
 
 :heavy_exclamation_mark: Parameter lassen sich nur mit einer `Lizensierten-Version` ausführen.
 
