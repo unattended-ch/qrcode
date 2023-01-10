@@ -85,8 +85,11 @@ Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verar
 
 Es ist `KEINE Internetverbindung notwendig` zum erzeugen der Einzahlungsscheine.
 
-Linux Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.
+Linux Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.<br>
 Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungsscheine.
+
+Linux Konfigdatei `~/qrcode/EZ/qrcode.conf`<br>
+Windows Registry `HKCU\Software\unattended.ch\QRcode`
 
    [goto TOC](#toc)
 
