@@ -10,13 +10,14 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/einzahlungsschein?label=&style=for-the-badge)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/einzahlungsschein/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-amd64.deb)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-amd64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-mac64.dmg)
 
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
 
 
-    Kompiliert mit Lazarus für Ubuntu und Windows
+    Kompiliert mit Lazarus für Ubuntu, MacOS und Windows
 
 
 </div>
@@ -35,6 +36,7 @@
       <li><a href="#adresses">Adressen (Lizensiert)</a></li>
       </ul>
     </li>
+    <li><a href="#change">Änderungsprotokoll</a></li>
     <li><a href="#license">Lizenz bestellen</a></li>
     <li><a href="#downloads">Download</a></li>
   </ol>
@@ -84,14 +86,13 @@ Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verar
 Es ist `KEINE Internetverbindung notwendig` zum erzeugen der Einzahlungsscheine.
 
 Linux Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.
-
 Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungsscheine.
 
    [goto TOC](#toc)
 
 <a name="windows"></a>
 ## WINDOWS
-### :computer: Eingabe Unlizensiert)
+### :computer: Einzahlungsschein Eingabe (Unlizensiert)
 <div align="center">
 
 ![Main Page](/res/main-window.png)
@@ -123,7 +124,7 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
    [goto TOC](#toc)
 
 <a name="konten"></a>
-### :wrench: Eingabe (Lizensiert)
+### :wrench: Einzahlungsschein Eingabe (Lizensiert)
 
 :heavy_exclamation_mark: `Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
 
@@ -151,10 +152,11 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
     - Als Abschluss muss eine Leerzeile folgen.
     - Über die Kommandozeile kann man die Datei mit --adresse=filename.txt laden.
     - Es können maximal 64 Adressen verarbeitet werden.
+    - Alle Zeilen mit `***` müssen ausgefüllt sein, alle anderen können leer sein.
 <br />
 
      Aufbau :
-	 1. Empfänger Konto (1=Eins,2=Zwei...)
+	 1. Empfänger Konto (1=Eins,2=Zwei...) ***
 	 2. Name
 	 3. Adresse
 	 4. Hausnummer
@@ -162,9 +164,9 @@ Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungssc
 	 6. Ort
 	 7. Referenznummer
 	 8. Bemerkung
-	 9. Währung (CHF/EUR)
+	 9. Währung (CHF/EUR) ***
 	10. Betrag
-	11. Leerzeile oder Trenzeile '###'
+	11. Leerzeile oder Trenzeile '###' ***
 
 
 `Datei adressen.txt :`
@@ -196,6 +198,11 @@ CHF
 
    [goto TOC](#toc)
 
+<a name="change"></a>
+## :recycle: Änderungsprotokoll
+[Changelog](/CHANGELOG)
+
+
 <a name="license"></a>
 ### :warning: Lizenz bestellen
 
@@ -205,8 +212,9 @@ CHF
 ### :dvd: Download
 <div align="center">
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.0-amd64.deb)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-amd64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-mac64.dmg)
 
 </div>
 

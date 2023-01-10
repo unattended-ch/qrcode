@@ -1,14 +1,19 @@
-0.0.0.1		Initial release on Gitlab
-		locale "de", "fr" and "it" added (default "en")
-0.0.0.2		Added Swisspayment slip added
-		Added parameter --swisspay
-		Added parameter --vcard
- 		Added parameter --wifi
-		Added parameter --calendar
-		Added parameter --url
-		Added parameter --email
-		Added parameter --phone
-		Added parameter --sms
-		Added parameter --geo
-		Added parameter --youtube
-1.0.0.0		Github initial release
+0.0.0.1		Gitlab : initial release
+		Added  : locale "de", "fr" and "it" (default "en")
+0.0.0.2		Added  : Swisspayment slip added
+		Added  : parameter --swisspay
+		Added  : parameter --vcard
+ 		Added  : parameter --wifi
+		Added  : parameter --calendar
+		Added  : parameter --url
+		Added  : parameter --email
+		Added  : parameter --phone
+		Added  : parameter --sms
+		Added  : parameter --geo
+		Added  : parameter --youtube
+1.0.0.0		Github : initial release
+1.0.0.1		Install: windows work folders from %PROGRAMFILES64% removed
+		Added  : printer on main window
+		Added  : cutlines enable/disable
+		Added  : MacOS version
+		Changed: load main window without parameters
