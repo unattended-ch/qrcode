@@ -1,6 +1,6 @@
 <div align="center">
 
-## Schweizer QR Einzahlungsschein
+## ![CH](res/ch.png) Schweizer QR Einzahlungsschein ![CH](res/ch.png)
 
 ### Generieren eines Schweizer QR Einzahlungsscheins
 
