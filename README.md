@@ -40,6 +40,7 @@
     <li><a href="#change">Änderungsprotokoll</a></li>
     <li><a href="#license">Lizenz bestellen</a></li>
     <li><a href="#downloads">Download</a></li>
+    <li><a href="#nachweise">Einzelnachweise</a></li>
   </ol>
 </details>
 
@@ -260,6 +261,7 @@ CHF
 
 </div>
 
+<a name="nachweise"></a>
 ### Einzelnachweise
 [Wikipedia QR-Rechnung](https://de.wikipedia.org/wiki/QR-Rechnung)<br>
 [Wikipedia QR-Code](https://de.wikipedia.org/wiki/QR_code)<br>
