@@ -10,14 +10,15 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/einzahlungsschein?label=&style=for-the-badge)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/einzahlungsschein/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-amd64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.3-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.3-amd64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.3-mac64.dmg)
 
-[![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
+[![my way](https://img.shields.io/badge/-vincit_omnia_veritas-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vincit+omnia+veritas%22+translate)
 
 
     Kompiliert mit Lazarus für Ubuntu, MacOS und Windows
+
 
 
 </div>
@@ -45,7 +46,7 @@
 <a name="description"></a>
 ### :mag: Beschreibung
 
-   `qrcode [--swisspay] [--konto=N|--adresse=filename.txt] [--jpg] [--print]<Enter>`
+   `qrcode [--swisspay] [--konto=N|--adresse=filename.txt] [--admin] [--jpg] [--print]<Enter>`
 
    `qrcode [--vcard|wifi|calendar|url|email|phone|sms|geo|youtube]<Enter>`
 
@@ -56,6 +57,7 @@ Parameter|Beschreibung
 `--swissppay`|Einzahlungsschein Formular öffnen
 `--konto=N`|Empfängerkonto auswählen
 `--adresse=filename.txt`|Zahlungspflichtige und Empfängerkonto aus Datei lesen
+`--admin`|Konten speichern aktivieren
 `--jpg`|JPG-Datei erstellen
 `--print`|Einzahlungsschein ausdrucken
 
@@ -86,41 +88,63 @@ Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verar
 Es ist `KEINE Internetverbindung notwendig` zum erzeugen der Einzahlungsscheine.
 
 Linux Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.<br>
+MacOS Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.<br>
 Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungsscheine.
 
 Linux Konfigdatei `~/qrcode/qrcode.conf`<br>
+MacOS Konfigdatei `~/qrcode/qrcode.conf`<br>
 Windows Registry `HKCU\Software\unattended.ch\QRcode`
 
    [goto TOC](#toc)
 
 <a name="windows"></a>
 ## WINDOWS
+<div align="center">
+
+![Main Page](res/master-window.png)
+
+[Link : QRCODE Lizenz bestellen](https://unattended.ch/?page_id=1935)
+
+</div>
+
 ### :computer: Einzahlungsschein Eingabe (Unlizensiert)
 <div align="center">
 
-![Main Page](/res/main-window.png)
+![Main Page](res/main-window.png)
 
 </div>
 
 :heavy_exclamation_mark: `Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.`
 
-   [goto TOC](#toc)
+   - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert<br>
+     <span style="color:green">GRÜN</span>=IBAN korrekt<br>
+     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
+   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert<br>
+     <span style="color:green">GRÜN</span>=Referenz korrekt<br>
+     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft<br>
 
+    - <OK>-Taste erstellt den Einzahlungsschein
+    - <Abbrechen>-Taste Fenster schliessen
+   
+    - Es können 4 Sprachen ausgewählt werden en,de,fr,it
+      In diesen Sprachen kann der Einzahlungsschein erstellt werden.
+
+   [goto TOC](#toc)
 
 <a name="paywindow"></a>
 ### :computer: Einzahlungsschein
 <div align="center">
 
-![Main Page](/res/pay-window.png)
+![Main Page](res/pay-window.png)
 
-![Main Page](/res/pay1-window.png)
-![Main Page](/res/pay2-window.png)
+![Main Page](res/pay1-window.png)
+![Main Page](res/pay2-window.png)
 
-![Save](/res/save.ico) Speichern 
-![Clip](/res/clip.png) Zwischenablage 
-![Print](/res/printer.png) Drucken 
-![Setup](/res/print-setup.png) Setup 
-![Exit](/res/exit1.bmp) Beenden
+![Save](res/save.ico) Speichern 
+![Clip](res/clip.png) Zwischenablage 
+![Print](res/printer.png) Drucken 
+![Setup](res/print-setup.png) Setup 
+![Exit](res/exit1.bmp) Beenden
 
 </div>
 
@@ -133,17 +157,32 @@ Windows Registry `HKCU\Software\unattended.ch\QRcode`
 
 <div align="center">
 
-![Full Page](/res/full-window.png)
+![Full Page](res/full-window.png)
 
 </div>
 
-    - Die Kontodaten eintragen und <Speichern> drücken.
+  `Zahlungsempfänger speichern`
+
+    - Die Zahlungsempfänger Kontodaten eintragen und <Speichern> drücken.
     - Danach wird das Konto automatisch in die Auswahlliste geladen
       und kann über diese ausgewählt werden.
     - Es können maximal 8 Konten gespeichert werden.
     - Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.
 
-   [goto TOC](#toc)
+   - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert<br>
+     <span style="color:green">GRÜN</span>=IBAN korrekt<br>
+     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
+   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert<br>
+     <span style="color:green">GRÜN</span>=Referenz korrekt<br>
+     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft<br>
+
+    - <OK>-Taste erstellt den Einzahlungsschein
+    - <Abbrechen>-Taste Fenster schliessen
+  
+    - Es können 4 Sprachen ausgewählt werden en,de,fr,it
+      In diesen Sprachen kann der Einzahlungsschein erstellt werden.
+
+[goto TOC](#toc)
 
 <a name="adresses"></a>
 ### :wrench: Adressen (Lizensiert)
@@ -181,7 +220,7 @@ Musterstrasse
 87
 4000
 Basel
-Referenz
+00 00000 00000 00000 00000 00000
 Bemerkung
 CHF
 1500.00
@@ -192,7 +231,7 @@ Musterstrasse
 22
 4000
 Basel
-Referenz
+00 00000 00000 00000 00000 00000
 Bemerkung
 CHF
 999.00
@@ -215,11 +254,16 @@ CHF
 ### :dvd: Download
 <div align="center">
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-amd64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.1-mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.3-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.3-amd64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.3-mac64.dmg)
 
 </div>
+
+### Einzelnachweise
+[Wikipedia QR-Rechnung](https://de.wikipedia.org/wiki/QR-Rechnung)<br>
+[Wikipedia QR-Code](https://de.wikipedia.org/wiki/QR_code)<br>
+[SIX Style Guide](https://www.paymentstandards.ch/dam/downloads/style-guide-de.pdf)
 
    [goto TOC](#toc)
 

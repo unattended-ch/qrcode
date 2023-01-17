@@ -17,3 +17,9 @@
 		Added  : cutlines enable/disable
 		Added  : MacOS version
 		Changed: load main window without parameters
+1.0.0.2		Fixed  : Swiss QRcode (verified by SIX)
+		Tested : Swiss QRcode on postfinance.ch
+		Added  : shortcuts for --license, --swisspay...
+1.0.0.3		Added  : parameter --admin for saving account data (Licensed)
+		Added  : Swisspay language support (en,de,fr,it)
+		Fixed  : tab order in swisspay form
