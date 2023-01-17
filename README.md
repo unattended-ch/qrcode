@@ -261,6 +261,7 @@ CHF
 
 </div>
 
+
 <a name="nachweise"></a>
 ### Einzelnachweise
 [Wikipedia QR-Rechnung](https://de.wikipedia.org/wiki/QR-Rechnung)<br>
