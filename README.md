@@ -172,12 +172,12 @@ Konfigurationsdatei :
     - Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.
 <br><br>
   - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert
-    - <span style="color:green">GRÜN</span>=IBAN korrekt<br>
-    - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
+    - GRÜN=IBAN korrekt<br>
+    - ROT&nbsp;&nbsp;&nbsp;=IBAN Fehlerhaft<br>
 <br><br>
   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert
-    - <span style="color:green">GRÜN</span>=Referenz korrekt<br>
-    - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft
+    - GRÜN=Referenz korrekt<br>
+    - ROT&nbsp;&nbsp;&nbsp;=Referenz fehlerhaft
 <br><br>
   - Um eine eigene Referenznummer zu erstellen, muss die Nummer eigegeben werden.<br>
     Und dann kann mit <Neuberechnen> die Prüfziffer berechnet werden.<br>
