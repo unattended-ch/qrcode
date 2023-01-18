@@ -180,10 +180,10 @@ Konfigurationsdatei :
     - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft
 <br><br>
   - Um eine eigene Referenznummer zu erstellen, muss die Nummer eigegeben werden.<br>
-      Und dann kann mit \<Neuberechnen> die Prüfziffer berechnet werden.
+      Und dann kann mit \<Neuberechnen> die Prüfziffer berechnet werden.<br>
     - 12 34567 89012 34567 89012 3456`0`
     - PK`00` 1234 5678 9012 3456 7890 1
-<br><br>
+
   - \<OK>-Taste erstellt den Einzahlungsschein
   - \<Abbrechen>-Taste Fenster schliessen
 <br><br> 
