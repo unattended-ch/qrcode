@@ -5,7 +5,6 @@
 ### Generieren eines Schweizer QR Einzahlungsscheins
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/einzahlungsschein?style=for-the-badge&color=green)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
-[![License](https://img.shields.io/github/license/unattended-ch/einzahlungsschein?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Stars](https://img.shields.io/github/stars/unattended-ch/einzahlungsschein?style=for-the-badge&color=orange)](https://github.com/unattended-ch/einzahlungsschein/stargazers)
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/einzahlungsschein?label=&style=for-the-badge)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/einzahlungsschein/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
@@ -70,7 +69,7 @@ Parameter|Beschreibung
 `--url`|URL code erzeugen
 `--email`|Email code erzeugen
 `--phone`|Telefon code erzeugen
-`--sms`|SMS code erzeugen
+`--sms`|SMS code erzeugen (QRcode mit Handy scannen und senden)
 `--geo`|GEO code rezeugen
 `--youtube`|Youtube ID code erzeugen
 
@@ -83,6 +82,9 @@ Parameter|Beschreibung
 :heavy_exclamation_mark: Mit der `Unlizensierte-Version` müssen die Daten `manuell` eingetragen werden.
 
 Wenn `--adresse=` verwendet wird, kann `--konto=` weggelassen werden, da das Konto in der Adressliste enthalten sein muss.
+- Linux &nbsp;&nbsp;= ~/qrcode/EZ/rechnung.txt
+- MacOS &nbsp;&nbsp;= ~/qrcode/EZ/rechnung.txt
+- Windows = %APPDATA%\qrcode\EZ\rechnung.txt
 
 Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
@@ -162,27 +164,31 @@ Windows Registry `HKCU\Software\unattended.ch\QRcode`
 
 </div>
 
-  `Zahlungsempfänger speichern`
-
+  - Zahlungsempfänger speichern
     - Die Zahlungsempfänger Kontodaten eintragen und <Speichern> drücken.
     - Danach wird das Konto automatisch in die Auswahlliste geladen
       und kann über diese ausgewählt werden.
     - Es können maximal 8 Konten gespeichert werden.
     - Über die Kommandozeile kann man das Konto mit --konto=N (1=Eins,2=Zwei...) auswählen.
-
-   - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert<br>
-     <span style="color:green">GRÜN</span>=IBAN korrekt<br>
-     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
-   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert<br>
-     <span style="color:green">GRÜN</span>=Referenz korrekt<br>
-     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft<br>
-
-    - <OK>-Taste erstellt den Einzahlungsschein
-    - <Abbrechen>-Taste Fenster schliessen
-  
-    - Es können 4 Sprachen ausgewählt werden en,de,fr,it
-      In diesen Sprachen kann der Einzahlungsschein erstellt werden.
-
+<br><br>
+  - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert
+    - <span style="color:green">GRÜN</span>=IBAN korrekt<br>
+    - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
+  - Nach Eingabe der Referenz wird die Farbe des Feldes verändert
+    - <span style="color:green">GRÜN</span>=Referenz korrekt<br>
+    - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft
+<br><br>
+  - Um eine eigene Referenznummer zu erstellen, muss die Nummer eigegeben werden.
+      Und dann kann mit <Neuberechnen> die Prüfziffer berechnet werden.
+    - 12 34567 89012 34567 89012 3456`0`
+    - PK`00` 1234 5678 9012 3456 7890 1
+<br><br>
+  - \<OK>-Taste erstellt den Einzahlungsschein
+  - \<Abbrechen>-Taste Fenster schliessen
+ 
+  - Es können 4 Sprachen ausgewählt werden en,de,fr,it<br>
+    In diesen Sprachen kann der Einzahlungsschein erstellt werden.
+ 
 [goto TOC](#toc)
 
 <a name="adresses"></a>
@@ -198,7 +204,8 @@ Windows Registry `HKCU\Software\unattended.ch\QRcode`
     - Alle Zeilen mit `***` müssen ausgefüllt sein, alle anderen können leer sein.
 <br />
 
-     Aufbau :
+  Aufbau :
+
 	 1. Empfänger Konto (1=Eins,2=Zwei...) ***
 	 2. Name
 	 3. Adresse
@@ -212,7 +219,7 @@ Windows Registry `HKCU\Software\unattended.ch\QRcode`
 	11. Leerzeile oder Trenzeile '###' ***
 
 
-`Datei adressen.txt :`
+Datei adressen.txt :
 
 <pre>
 1
@@ -264,9 +271,9 @@ CHF
 
 <a name="nachweise"></a>
 ### Einzelnachweise
-[Wikipedia QR-Rechnung](https://de.wikipedia.org/wiki/QR-Rechnung)<br>
-[Wikipedia QR-Code](https://de.wikipedia.org/wiki/QR_code)<br>
-[SIX Style Guide](https://www.paymentstandards.ch/dam/downloads/style-guide-de.pdf)
+[Wikipedia QR-Rechnung](https://de.wikipedia.org/wiki/QR-Rechnung)<font size=1> abgerufen am 15. Januar 2023</font><br>
+[Wikipedia QR-Code](https://de.wikipedia.org/wiki/QR_code)<font size=1> abgerufen am 15. Januar 2023</font><br>
+[SIX Style Guide](https://www.paymentstandards.ch/dam/downloads/style-guide-de.pdf)<font size=1> abgerufen am 15. Januar 2023</font>
 
    [goto TOC](#toc)
 
