@@ -127,10 +127,8 @@ Konfigurationsdatei :
   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert<br>
     <span style="color:green">GRÜN</span>=Referenz korrekt<br>
     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft<br>
-
   - \<OK>-Taste erstellt den Einzahlungsschein
   - \<Abbrechen>-Taste Fenster schliessen
-   
   - Es können 4 Sprachen ausgewählt werden en,de,fr,it<br>
     In diesen Sprachen kann der Einzahlungsschein erstellt werden.
 
@@ -176,21 +174,23 @@ Konfigurationsdatei :
   - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert
     - <span style="color:green">GRÜN</span>=IBAN korrekt<br>
     - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
+<br>
   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert
     - <span style="color:green">GRÜN</span>=Referenz korrekt<br>
     - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft
 <br><br>
-  - Um eine eigene Referenznummer zu erstellen, muss die Nummer eigegeben werden.
-      Und dann kann mit <Neuberechnen> die Prüfziffer berechnet werden.
+  - Um eine eigene Referenznummer zu erstellen, muss die Nummer eigegeben werden.<br>
+      Und dann kann mit \<Neuberechnen> die Prüfziffer berechnet werden.
     - 12 34567 89012 34567 89012 3456`0`
     - PK`00` 1234 5678 9012 3456 7890 1
 <br><br>
   - \<OK>-Taste erstellt den Einzahlungsschein
   - \<Abbrechen>-Taste Fenster schliessen
- 
+<br><br> 
   - Es können 4 Sprachen ausgewählt werden en,de,fr,it<br>
     In diesen Sprachen kann der Einzahlungsschein erstellt werden.
- 
+
+
 [goto TOC](#toc)
 
 <a name="adresses"></a>
@@ -198,12 +198,12 @@ Konfigurationsdatei :
 
 :heavy_exclamation_mark: `Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
 
-    - Dazu muss jeder Datensatz aus 10 Zeilen bestehen.
-    - Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
-    - Als Abschluss muss eine Leerzeile folgen.
-    - Über die Kommandozeile kann man die Datei mit --adresse=filename.txt laden.
-    - Es können maximal 64 Adressen verarbeitet werden.
-    - Alle Zeilen mit `***` müssen ausgefüllt sein, alle anderen können leer sein.
+  - Dazu muss jeder Datensatz aus 10 Zeilen bestehen.
+  - Falls mehr als 1 Datensatz übertragen werden soll, muss eine Trennzeile `###` eingesetzt werden.
+  - Als Abschluss muss eine Leerzeile folgen.
+  - Über die Kommandozeile kann man die Datei mit --adresse=filename.txt laden.
+  - Es können maximal 64 Adressen verarbeitet werden.
+  - Alle Zeilen mit `***` müssen ausgefüllt sein, alle anderen können leer sein.
 <br />
 
   Aufbau :
