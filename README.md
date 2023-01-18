@@ -90,13 +90,15 @@ Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verar
 
 Es ist `KEINE Internetverbindung notwendig` zum erzeugen der Einzahlungsscheine.
 
-Linux Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.<br>
-MacOS Daten Verzeichnis `~/qrcode/EZ/` für gespeicherte Einzahlungsscheine.<br>
-Windows Daten Verzeichnis `%APPDATA%\qrcode\EZ\` für gespeicherte Einzahlungsscheine.
+Daten Verzeichnis für gespeicherte Einzahlungsscheine :
+  - Linux `~/qrcode/EZ/`<br>
+  - MacOS `~/qrcode/EZ/`<br>
+  - Windows `%APPDATA%\qrcode\EZ\`
 
-Linux Konfigdatei `~/qrcode/qrcode.conf`<br>
-MacOS Konfigdatei `~/qrcode/qrcode.conf`<br>
-Windows Registry `HKCU\Software\unattended.ch\QRcode`
+Konfigurationsdatei :
+  - Linux `~/qrcode/qrcode.conf`<br>
+  - MacOS `~/qrcode/qrcode.conf`<br>
+  - Windows `HKCU\Software\unattended.ch\QRcode`
 
    [goto TOC](#toc)
 
@@ -119,20 +121,20 @@ Windows Registry `HKCU\Software\unattended.ch\QRcode`
 
 :heavy_exclamation_mark: `Mit der Unlizensierten-Version müssen die Daten manuell eingegeben werden.`
 
-   - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert<br>
-     <span style="color:green">GRÜN</span>=IBAN korrekt<br>
-     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
-   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert<br>
-     <span style="color:green">GRÜN</span>=Referenz korrekt<br>
-     <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft<br>
+  - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert<br>
+    <span style="color:green">GRÜN</span>=IBAN korrekt<br>
+    <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
+  - Nach Eingabe der Referenz wird die Farbe des Feldes verändert<br>
+    <span style="color:green">GRÜN</span>=Referenz korrekt<br>
+    <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft<br>
 
-    - <OK>-Taste erstellt den Einzahlungsschein
-    - <Abbrechen>-Taste Fenster schliessen
+  - \<OK>-Taste erstellt den Einzahlungsschein
+  - \<Abbrechen>-Taste Fenster schliessen
    
-    - Es können 4 Sprachen ausgewählt werden en,de,fr,it
-      In diesen Sprachen kann der Einzahlungsschein erstellt werden.
+  - Es können 4 Sprachen ausgewählt werden en,de,fr,it<br>
+    In diesen Sprachen kann der Einzahlungsschein erstellt werden.
 
-   [goto TOC](#toc)
+  [goto TOC](#toc)
 
 <a name="paywindow"></a>
 ### :computer: Einzahlungsschein
