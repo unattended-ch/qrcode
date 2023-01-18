@@ -174,7 +174,7 @@ Konfigurationsdatei :
   - Nach der Eingabe der IBAN wird die Farbe des Feldes verändert
     - <span style="color:green">GRÜN</span>=IBAN korrekt<br>
     - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=IBAN Fehlerhaft<br>
-<br>
+<br><br>
   - Nach Eingabe der Referenz wird die Farbe des Feldes verändert
     - <span style="color:green">GRÜN</span>=Referenz korrekt<br>
     - <span style="color:red">ROT&nbsp;&nbsp;&nbsp;</span>=Referenz fehlerhaft
