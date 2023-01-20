@@ -23,3 +23,7 @@
 1.0.0.3		Added  : parameter --admin for saving account data (Licensed)
 		Added  : Swisspay language support (en,de,fr,it)
 		Fixed  : tab order in swisspay form
+1.0.0.4		Fixed  : Saving SMS numbers
+		Fixed  : Wrong version in MacOS build
+		Added  : Crypto currency (bitcoin,ethereum,doge,litecoin)
+		Added  : Parameter --crypto

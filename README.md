@@ -3,6 +3,16 @@
 ## ![CH](res/ch.png) Schweizer QR Einzahlungsschein ![CH](res/ch.png)
 
 ### Generieren eines Schweizer QR Einzahlungsscheins
+### Generieren einer Crypto Zahlung (Scannen mit dem Handy)
+### Generieren eines Kontakts (Scannen mit dem Handy)
+### Generieren einer Wifi Adresse (Scannen mit dem Handy)
+### Generieren eines Kalender Eintrags (Scannen mit dem Handy oder in Email einfügen)
+### Generieren einer URL Adresse  (Scannen mit dem Handy)
+### Generieren einer Email Adresse (Scannen mit dem Handy)
+### Generieren einer Telefon Nummer (Scannen mit dem Handy)
+### Generieren einer SMS Meldung (Scannen mit dem Handy)
+### Generieren eines Standorts (Scannen mit dem Handy)
+### Generieren eines Youtube Links (Scannen mit dem Handy)
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/einzahlungsschein?style=for-the-badge&color=green)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Stars](https://img.shields.io/github/stars/unattended-ch/einzahlungsschein?style=for-the-badge&color=orange)](https://github.com/unattended-ch/einzahlungsschein/stargazers)
@@ -28,12 +38,72 @@
   <summary><h2 style="display: inline-block">:scroll: INHALT</h2></summary>
   <ol>
     <li><a href="#description">Beschreibung</a></li>
-    <li><a href="#windows">Fenster</a>
+    <li><a href="#windows">Einzahlunsschein</a>
       <ul>
-      <li><a href="#windows">Eingabe (Unlizensiert)</a></li>
+      <li><a href="#swisspay">Eingabe (Unlizensiert)</a></li>
       <li><a href="#paywindow">Einzahlungsschein</a></li>
       <li><a href="#konten">Eingabe (Lizensiert)</a></li>
       <li><a href="#adresses">Adressen (Lizensiert)</a></li>
+      </ul>
+    </li>
+    <li><a href="#crypto">Crypto Zahlungen</a>
+      <ul>
+      <li><a href="#crypto">Eingabe</a></li>
+      <li><a href="#cryptocode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Kontakt</a>
+      <ul>
+      <li><a href="#contact">Eingabe</a></li>
+      <li><a href="#contactcode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#wifi">Wifi</a>
+      <ul>
+      <li><a href="#wifi">Eingabe</a></li>
+      <li><a href="#wificode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#calendar">Kalender</a>
+      <ul>
+      <li><a href="#calendar">Eingabe</a></li>
+      <li><a href="#calendarcode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#url">Url</a>
+      <ul>
+      <li><a href="#url">Eingabe</a></li>
+      <li><a href="#urlcode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#email">Email</a>
+      <ul>
+      <li><a href="#email">Eingabe</a></li>
+      <li><a href="#emailcode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#tel">Telefon</a>
+      <ul>
+      <li><a href="#tel">Eingabe</a></li>
+      <li><a href="#telcode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#sms">SMS</a>
+      <ul>
+      <li><a href="#sms">Eingabe</a></li>
+      <li><a href="#smscode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#geo">GEO</a>
+      <ul>
+      <li><a href="#geo">Eingabe</a></li>
+      <li><a href="#geocode">QR Code</a></li>
+      </ul>
+    </li>
+    <li><a href="#youtube">Youtube</a>
+      <ul>
+      <li><a href="#youtube">Eingabe</a></li>
+      <li><a href="#youtubecode">QR Code</a></li>
       </ul>
     </li>
     <li><a href="#change">Änderungsprotokoll</a></li>
@@ -63,6 +133,7 @@ Parameter|Beschreibung
 
  Parameter|Beschreibung
 ---------|------------
+`--crypto`|Cryptowährungs code erzeugen
 `--vcard`|Kontakt code erzeugen
 `--wifi`|WIFI code erzeugen
 `--calendar`|Kalender code erzeugen
@@ -112,6 +183,7 @@ Konfigurationsdatei :
 
 </div>
 
+<a name="swisspay"></a>
 ### :computer: Einzahlungsschein Eingabe (Unlizensiert)
 <div align="center">
 
@@ -247,6 +319,185 @@ CHF
 999.00
 
 </pre>
+
+   [goto TOC](#toc)
+
+<a name="crypto"></a>
+### Crypto Zahlungen
+<div align="center">
+
+![Crypto Page](res/crypto-window.png)
+
+</div>
+
+<a name="cryptocode"></a>
+### Crypto Code
+<div align="center">
+
+![Crypto Page](res/cryptocode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="contact"></a>
+### Kontakt
+<div align="center">
+
+![Contact Page](res/contact-window.png)
+
+</div>
+<a name="contactcode"></a>
+### Kontakt Code
+<div align="center">
+
+![Contact Page](res/contactcode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="wifi"></a>
+### Wifi
+<div align="center">
+
+![Wifi Page](res/wifi-window.png)
+
+</div>
+
+<a name="wificode"></a>
+### Wifi Code
+<div align="center">
+
+![Wifi Page](res/wificode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="calendar"></a>
+### Kalender
+<div align="center">
+
+![Kalender Page](res/calendar-window.png)
+
+</div>
+
+<a name="calendarcode"></a>
+### Kalender Code
+<div align="center">
+
+![Kalender Page](res/calendarcode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="url"></a>
+### Url
+<div align="center">
+
+![Url Page](res/url-window.png)
+
+</div>
+
+<a name="urlcode"></a>
+### Url Code
+<div align="center">
+
+![Url Page](res/urlcode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="email"></a>
+### Email
+<div align="center">
+
+![Email Page](res/email-window.png)
+
+</div>
+
+<a name="emailcode"></a>
+### Email Code
+<div align="center">
+
+![Email Page](res/emailcode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="tel"></a>
+### Telefon
+<div align="center">
+
+![Tel Page](res/tel-window.png)
+
+</div>
+
+<a name="telcode"></a>
+### Telefon Code
+<div align="center">
+
+![Tel Page](res/telcode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="sms"></a>
+### SMS
+<div align="center">
+
+![SMS Page](res/sms-window.png)
+
+</div>
+
+<a name="smscode"></a>
+### SMS Code
+<div align="center">
+
+![SMS Page](res/smscode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="geo"></a>
+### GEO
+<div align="center">
+
+![GEO Page](res/geo-window.png)
+
+</div>
+
+<a name="geocode"></a>
+### GEO Code
+<div align="center">
+
+![GEO Page](res/geocode-window.png)
+
+</div>
+
+   [goto TOC](#toc)
+
+<a name="youtube"></a>
+### Youtube
+<div align="center">
+
+![Youtube Page](res/youtube-window.png)
+
+</div>
+
+<a name="youtubecode"></a>
+### Youtube Code
+<div align="center">
+
+![Youtube Page](res/youtubecode-window.png)
+
+</div>
 
    [goto TOC](#toc)
 
