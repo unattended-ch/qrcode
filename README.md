@@ -125,7 +125,7 @@
 
 Parameter|Beschreibung
 ---------|------------
-`--swissppay`|Einzahlungsschein Formular öffnen
+<a href="#swisspay">`--swissppay`</a>|Einzahlungsschein Formular öffnen
 `--konto=N`|Empfängerkonto auswählen
 `--adresse=filename.txt`|Zahlungspflichtige und Empfängerkonto aus Datei lesen
 `--admin`|Konten speichern aktivieren
@@ -134,16 +134,16 @@ Parameter|Beschreibung
 
  Parameter|Beschreibung
 ---------|------------
-`--crypto`|Cryptowährungs code erzeugen
-`--vcard`|Kontakt code erzeugen
-`--wifi`|WIFI code erzeugen
-`--calendar`|Kalender code erzeugen
-`--url`|URL code erzeugen
-`--email`|Email code erzeugen
-`--phone`|Telefon code erzeugen
-`--sms`|SMS code erzeugen (QRcode mit Handy scannen und senden)
-`--geo`|GEO code rezeugen
-`--youtube`|Youtube ID code erzeugen
+<a href="#crypto">`--crypto`</a>|Cryptowährungs code erzeugen
+<a href="#contact">`--vcard`</a>|Kontakt code erzeugen
+<a href="#wifi">`--wifi`</a>|WIFI code erzeugen
+<a href="#calendar">`--calendar`</a>|Kalender code erzeugen
+<a href="#url">`--url`</a>|URL code erzeugen
+<a href="#email">`--email`</a>|Email code erzeugen
+<a href="#tel">`--phone`</a>|Telefon code erzeugen
+<a href="#sms">`--sms`</a>|SMS code erzeugen (QRcode mit Handy scannen und senden)
+<a href="#geo">`--geo`</a>|GEO code rezeugen
+<a href="#youtube">`--youtube`</a>|Youtube ID code erzeugen
 
  Parameter|Beschreibung
 ---------|------------
