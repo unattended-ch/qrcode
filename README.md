@@ -115,7 +115,7 @@
 </details>
 
 <a name="description"></a>
-### :mag: Beschreibung
+## :mag: Beschreibung
 
    `qrcode [--swisspay] [--konto=N|--adresse=filename.txt] [--admin] [--jpg] [--print]<Enter>`
 
@@ -185,7 +185,7 @@ Konfigurationsdatei :
 </div>
 
 <a name="swisspay"></a>
-### :computer: Einzahlungsschein Eingabe (Unlizensiert)
+## :computer: Einzahlungsschein Eingabe (Unlizensiert)
 <div align="center">
 
 ![Main Page](res/main-window.png)
@@ -208,7 +208,7 @@ Konfigurationsdatei :
   [goto TOC](#toc)
 
 <a name="paywindow"></a>
-### :computer: Einzahlungsschein
+## :computer: Einzahlungsschein
 <div align="center">
 
 ![Main Page](res/pay-window.png)
@@ -227,7 +227,7 @@ Konfigurationsdatei :
    [goto TOC](#toc)
 
 <a name="konten"></a>
-### :wrench: Einzahlungsschein Eingabe (Lizensiert)
+## :wrench: Einzahlungsschein Eingabe (Lizensiert)
 
 :heavy_exclamation_mark: `Die Konten können nur mit der Lizensierten-Version gespeichert und geladen werden.`
 
@@ -267,7 +267,7 @@ Konfigurationsdatei :
 [goto TOC](#toc)
 
 <a name="adresses"></a>
-### :wrench: Adressen (Lizensiert)
+## :wrench: Adressen (Lizensiert)
 
 :heavy_exclamation_mark: `Die Adressen können nur mit der Lizensierten-Version aus einer Textdatei geladen werden.`
 
@@ -324,7 +324,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="crypto"></a>
-### Crypto Zahlungen
+## Crypto Zahlungen
 <div align="center">
 
 ![Crypto Page](res/crypto-window.png)
@@ -342,7 +342,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="contact"></a>
-### Kontakt
+## Kontakt
 <div align="center">
 
 ![Contact Page](res/contact-window.png)
@@ -360,7 +360,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="wifi"></a>
-### Wifi
+## Wifi
 <div align="center">
 
 ![Wifi Page](res/wifi-window.png)
@@ -378,7 +378,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="calendar"></a>
-### Kalender
+## Kalender
 <div align="center">
 
 ![Kalender Page](res/calendar-window.png)
@@ -396,7 +396,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="url"></a>
-### Url
+## Url
 <div align="center">
 
 ![Url Page](res/url-window.png)
@@ -414,7 +414,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="email"></a>
-### Email
+## Email
 <div align="center">
 
 ![Email Page](res/email-window.png)
@@ -432,7 +432,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="tel"></a>
-### Telefon
+## Telefon
 <div align="center">
 
 ![Tel Page](res/tel-window.png)
@@ -450,7 +450,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="sms"></a>
-### SMS
+## SMS
 <div align="center">
 
 ![SMS Page](res/sms-window.png)
@@ -468,7 +468,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="geo"></a>
-### GEO
+## GEO
 <div align="center">
 
 ![GEO Page](res/geo-window.png)
@@ -486,7 +486,7 @@ CHF
    [goto TOC](#toc)
 
 <a name="youtube"></a>
-### Youtube
+## Youtube
 <div align="center">
 
 ![Youtube Page](res/youtube-window.png)
@@ -516,7 +516,7 @@ CHF
 
 
 <a name="downloads"></a>
-### :dvd: Download
+## :dvd: Download
 <div align="center">
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/einzahlungsschein/releases/latest/download/qrcode_1.0.0.3-win64.exe)
@@ -527,7 +527,7 @@ CHF
 
 
 <a name="nachweise"></a>
-### Einzelnachweise
+## Einzelnachweise
 [Wikipedia QR-Rechnung](https://de.wikipedia.org/wiki/QR-Rechnung)<font size=1> abgerufen am 15. Januar 2023</font><br>
 [Wikipedia QR-Code](https://de.wikipedia.org/wiki/QR_code)<font size=1> abgerufen am 15. Januar 2023</font><br>
 [SIX Style Guide](https://www.paymentstandards.ch/dam/downloads/style-guide-de.pdf)<font size=1> abgerufen am 15. Januar 2023</font>
