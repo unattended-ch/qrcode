@@ -348,6 +348,7 @@ CHF
 ![Contact Page](res/contact-window.png)
 
 </div>
+
 <a name="contactcode"></a>
 ### Kontakt Code
 <div align="center">
