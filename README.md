@@ -3,16 +3,17 @@
 ## ![CH](res/ch.png) Schweizer QR Einzahlungsschein ![CH](res/ch.png)
 
 ### Generieren eines Schweizer QR Einzahlungsscheins
-### Generieren einer Crypto Zahlung (Scannen mit dem Handy)
-    Generieren eines Kontakts (Scannen mit dem Handy)
-    Generieren einer Wifi Adresse (Scannen mit dem Handy)
-    Generieren eines Kalender Eintrags (Scannen mit dem Handy oder in Email einfügen)
-    Generieren einer URL Adresse  (Scannen mit dem Handy)
-    Generieren einer Email Adresse (Scannen mit dem Handy)
-    Generieren einer Telefon Nummer (Scannen mit dem Handy)
-    Generieren einer SMS Meldung (Scannen mit dem Handy)
-    Generieren eines Standorts (Scannen mit dem Handy)
-    Generieren eines Youtube Links (Scannen mit dem Handy)
+### Generieren einer Crypto QR Zahlung
+  Generiere
+  Kontakt
+  Wifi
+  Kalender
+  URL
+  Email
+  Telefon
+  SMS
+  Standort
+  Youtube
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/einzahlungsschein?style=for-the-badge&color=green)](https://github.com/unattended-ch/einzahlungsschein/releases/latest)
 [![Stars](https://img.shields.io/github/stars/unattended-ch/einzahlungsschein?style=for-the-badge&color=orange)](https://github.com/unattended-ch/einzahlungsschein/stargazers)
