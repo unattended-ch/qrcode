@@ -509,7 +509,7 @@ CHF
 
 
 <a name="license"></a>
-### :warning: Lizenz bestellen
+## :warning: Lizenz bestellen
 
 [Lizenz bestellen, mit Einzahlungsschein bezahlen](https://unattended.ch/?page_id=1935)<br>
 [Lizenz bestellen, mit Bitcoin bezahlen](https://btcpay.3quenz.ch/apps/2DM1ibuoDbPM1WTnHvui1qyE3UZJ/pos)
