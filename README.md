@@ -315,9 +315,7 @@ Zeile|Inhalt
 
 Datei adressen.txt :
 
-<div align="center">
-
-<textarea rows="22" cols="40">
+<pre>
 1
 Gustav Muster
 Musterstrasse
@@ -339,8 +337,7 @@ Basel
 Bemerkung
 CHF
 999.00
-</textarea>
-</div>
+</pre>
 
    [goto TOC](#toc)
 
