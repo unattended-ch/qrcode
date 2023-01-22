@@ -154,23 +154,37 @@ Parameter|Beschreibung
 :heavy_exclamation_mark: Mit der `Unlizensierte-Version` müssen die Daten `manuell` eingetragen werden.
 
 Wenn `--adresse=` verwendet wird, kann `--konto=` weggelassen werden, da das Konto in der Adressliste enthalten sein muss.
-- Linux &nbsp;&nbsp;= ~/qrcode/EZ/rechnung.txt
-- MacOS &nbsp;&nbsp;= ~/qrcode/EZ/rechnung.txt
-- Windows = %APPDATA%\qrcode\EZ\rechnung.txt
 
 Mit den Parametern `--jpg` und/oder `--print` werden die Daten automatisch verarbeitet und die entsprechenden Daten erzeugt, danach wird das Programm beendet.
 
 Es ist `KEINE Internetverbindung notwendig` zum erzeugen der Einzahlungsscheine.
+<br><br>
 
-Daten Verzeichnis für gespeicherte Einzahlungsscheine :
-  - Linux `~/qrcode/EZ/`<br>
-  - MacOS `~/qrcode/EZ/`<br>
-  - Windows `%APPDATA%\qrcode\EZ\`
+<div align="left">
 
-Konfigurationsdatei :
-  - Linux `~/qrcode/qrcode.conf`<br>
-  - MacOS `~/qrcode/qrcode.conf`<br>
-  - Windows `HKCU\Software\unattended.ch\QRcode`
+***Verzeichnis für Adressliste :***
+OS|Verzeichnis
+---|---
+Linux|`~/qrcode/EZ/rechnung.txt`
+MacOS|`~/qrcode/EZ/rechnung.txt`
+Windows|`%APPDATA%\qrcode\EZ\rechnung.txt`
+
+
+***Verzeichnis für Einzahlungsscheine :***
+OS|Verzeichnis
+---|---
+Linux|`~/qrcode/EZ/`
+MacOS|`~/qrcode/EZ/`
+Windows|`%APPDATA%\qrcode\EZ\`
+
+***Konfigurationsdatei :***
+OS|Verzeichnis
+---|---
+Linux|`~/qrcode/qrcode.conf`<br>
+MacOS|`~/qrcode/qrcode.conf`<br>
+Windows|`HKCU\Software\unattended.ch\QRcode`
+
+</div>
 
    [goto TOC](#toc)
 
@@ -213,14 +227,14 @@ Konfigurationsdatei :
 
 ![Main Page](res/pay-window.png)
 
-![Main Page](res/pay1-window.png)
-![Main Page](res/pay2-window.png)
-
 ![Save](res/save.ico) Speichern 
 ![Clip](res/clip.png) Zwischenablage 
 ![Print](res/printer.png) Drucken 
 ![Setup](res/print-setup.png) Setup 
 ![Exit](res/exit1.bmp) Beenden
+
+![Main Page](res/pay1-window.png)
+![Main Page](res/pay2-window.png)
 
 </div>
 
@@ -279,24 +293,31 @@ Konfigurationsdatei :
   - Alle Zeilen mit `***` müssen ausgefüllt sein, alle anderen können leer sein.
 <br />
 
-  Aufbau :
+<div align="center">
 
-	 1. Empfänger Konto (1=Eins,2=Zwei...) ***
-	 2. Name
-	 3. Adresse
-	 4. Hausnummer
-	 5. Postleitzahl
-	 6. Ort
-	 7. Referenznummer
-	 8. Bemerkung
-	 9. Währung (CHF/EUR) ***
-	10. Betrag
-	11. Leerzeile oder Trenzeile '###' ***
+Zeile|Inhalt
+-----|------
+1|Empfänger Konto (1=Eins,2=Zwei...) `***`
+2|Name
+3|Adresse
+4|Hausnummer
+5|Postleitzahl
+6|Ort
+7|Referenznummer
+8|Bemerkung
+9|Währung (CHF/EUR) `***`
+10|Betrag
+11|Leerzeile oder Trenzeile '###' `***`
 
+</div>
+
+***
 
 Datei adressen.txt :
 
-<pre>
+<div align="center">
+
+<textarea rows="22" cols="40">
 1
 Gustav Muster
 Musterstrasse
@@ -318,8 +339,8 @@ Basel
 Bemerkung
 CHF
 999.00
-
-</pre>
+</textarea>
+</div>
 
    [goto TOC](#toc)
 
@@ -328,6 +349,8 @@ CHF
 <div align="center">
 
 ![Crypto Page](res/crypto-window.png)
+
+Bitcoin, Ethereum, Doge, Litecoin werden unterstützt.
 
 </div>
 
@@ -346,6 +369,8 @@ CHF
 <div align="center">
 
 ![Contact Page](res/contact-window.png)
+
+Kontakt kann auch aus einer vCard Datei importiert werden.
 
 </div>
 
